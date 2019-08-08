@@ -1,0 +1,15 @@
+{
+    "shortid": "dOoi1a",
+    "name": "shared",
+    "folder": {
+        "shortid": "mO4nByP"
+    },
+    "creationDate": {
+        "$$date": 1565285604231
+    },
+    "modificationDate": {
+        "$$date": 1565285604231
+    },
+    "_id": "ZWn88KaDv6qJxyuU",
+    "$entitySet": "folders"
+}

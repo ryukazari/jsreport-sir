@@ -1,0 +1,2879 @@
+{
+    "number": "123",
+    "seller": {
+        "name": "Next Step Webs, Inc.",
+        "road": "12345 Sunny Road",
+        "country": "Sunnyville, TX 12345"
+    },
+    "buyer": {
+        "name": "Acme Corp.",
+        "road": "16 Johnson Road",
+        "country": "Paris, France 8060"
+    },
+    "fecha_i": "2014-01-01",
+    "fecha_f": "2014-12-31",
+    "items": [
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 1,
+            "origen": "FACULTAD DE CIENCIAS CONTABLES",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS, OFICIO Nº0214, 0215, 0255, 0193, 0380, 0416-14-CEUPS-PANADERIA-FII. OFNº0279/FCC-DADM/2014.",
+            "expediente_transferencia_interna": "03660-FCC-2014",
+            "monto_transferencia_interna": "4392.10"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 2,
+            "origen": "FACULTAD DE CIENCIAS ECONOMICAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "CURSO CAPACITACIÓN DE LA SRA. RUTH ELIZABETH ESPINOZA TORREJON, EN EL CURSO \"LINUX BÁSICO Y ADMINISTRACIÓN\", OF Nº432-FCE-DAD-2014",
+            "expediente_transferencia_interna": "03745-FCE-2104",
+            "monto_transferencia_interna": "200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 3,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº0696/D-FQIQ/2014; OFICIO Nº0453-14-CEUPS-PANADERIA-FII, GUIA REM. 0026 Nº7874.",
+            "expediente_transferencia_interna": "02686-FII-2014",
+            "monto_transferencia_interna": "221.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 4,
+            "origen": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "INSCRIPCIÓN DEL SR. EDGAR LUIS CACERES ANGULO EN EL CURSO \"LINUX BÁSICO Y ADMINISTRATIVO\" MODULOS I BÁSICO Y MODULO II ADMINISTRATIVO, OF Nº01284/FCM-D/2014",
+            "expediente_transferencia_interna": "02462-FCM-2104",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 5,
+            "origen": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS OF. Nº 3454/DGA-OGRRHH/2014; OFICIO Nº0425-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº 7816, 7817, 7825, 7830, 7835 Y 7845.",
+            "expediente_transferencia_interna": "02360-FII-2014",
+            "monto_transferencia_interna": "408.90"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 6,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "INSCRIPCIÓN AL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\", OF Nº01569/FFB-D/2014.",
+            "expediente_transferencia_interna": "05355-FFB-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 7,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCIÓN E IMPRESIÓN DE FOLDER PLASTIFICADO CON BOLSILLO, HOJA DE REQ. 2014060210. PRESUPUESTO Nº 14091.",
+            "expediente_transferencia_interna": "13429-SG-2014",
+            "monto_transferencia_interna": "5236.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 8,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE 30 PANETONES DE CAJA ( OFICINA CALIDAD ACADEMICA Y ACREDIT.) OF. Nº474-OCCAA-VRAC-2014, HOJA REQ. 2014060624",
+            "expediente_transferencia_interna": "02161-OGLP-2014",
+            "monto_transferencia_interna": "555.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 9,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "FACULTAD DE CIENCIAS CONTABLES",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN AL CURSO TALLER: SIAF-\"SISTEMA INTEGRADO DE ADMINISTRACIÓN FINANCIERA\", OF Nº555-UE-DADM/FD-2014.",
+            "expediente_transferencia_interna": "08575-FD-2014",
+            "monto_transferencia_interna": "700.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 10,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0644-DADM/UE-FISI-2104. OFICIO Nº0595-CEUPS-PANADERIA-FII-14. GUIA REM. 026 Nº8098.",
+            "expediente_transferencia_interna": "06001-FISI-2014",
+            "monto_transferencia_interna": "298.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 11,
+            "origen": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "PARTICIPACIÓN DE LA SR. FANNY URBINA GALVEZ AL CURSO \"ACTUALIZACIÓN EN PROGRAMACIÓN INFORMÁTICA MICROSOFT WORD OFFICE Y EXCEL INTEMEDIO\",  OF Nº837-VRACADM/CEPREDIM-UNMSM-2014.",
+            "expediente_transferencia_interna": "12984-DGA-2014",
+            "monto_transferencia_interna": "50.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 12,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE HOJAS MEMBRETADAS ( OF. ASESORIA LEGAL) OF Nº1566-OGAL-R-14, PRESUPUESTO Nº14189.",
+            "expediente_transferencia_interna": "12477-DGA-2014",
+            "monto_transferencia_interna": "800.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 13,
+            "origen": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF. Nº063/DGA-OGRRHH-ODBS/2014; OFICIO Nº0564-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8021.",
+            "expediente_transferencia_interna": "03294-FII-2014",
+            "monto_transferencia_interna": "208.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 14,
+            "origen": "AUTOSEGURO CONTRA ACCIDENTES",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "ALQUILER DE 02 AMBIENTES PARA EL AUTOSEGURO (PABELLÓN ANTIGUO - 1er PISO)  CORRESPONDIENTE AL MES DE NOVIEMBRE 2014, OF Nº395-DGA-OGE-AAP-CG/2014",
+            "expediente_transferencia_interna": "13016-DGA-2014",
+            "monto_transferencia_interna": "700.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 15,
+            "origen": "AUTOSEGURO CONTRA ACCIDENTES",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "ALQUILER DE 02 AMBIENTES PARA EL AUTOSEGURO (PABELLÓN ANTIGUO - 1er PISO)  CORRESPONDIENTE AL MES DE JULIO 2014, OF Nº226-DGA-OGE-AAP-CG/2014",
+            "expediente_transferencia_interna": "07962-DGA-2014",
+            "monto_transferencia_interna": "700.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 16,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "SERV. DE LEGALIZACIÓN DE 01 LIBRO DE ACTA DE EVALUACIÓN CURRICULAR DE LA ESCUELA ACADÉMICO PROFESIONAL DE OBSTETRICIA OF Nº0750/FM-DADM/2014.",
+            "expediente_transferencia_interna": "15579-FM-2014",
+            "monto_transferencia_interna": "80.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 17,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "ASISTENCIA DE 02 PARTICIPANTES AL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\" OF Nº1033/FM-DADM/2014",
+            "expediente_transferencia_interna": "19642-FM-2014",
+            "monto_transferencia_interna": "100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 18,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "ASISTENCIA DE 04 PARTICIPANTES AL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\" OF Nº1029/FM-DADM/2014",
+            "expediente_transferencia_interna": "20199-FM-2014",
+            "monto_transferencia_interna": "200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 19,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE GASEOSAS Y GALLETAS OF Nº1024-FM-DADM-14; OFICIO Nº0538-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8026.",
+            "expediente_transferencia_interna": "15903-FM-2014",
+            "monto_transferencia_interna": "204.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 20,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE DESCARTABLES, INFUSIONES, AZÚCAR Y CAFÉ OF Nº1022-FM-DADM-14; OFICIO Nº0537-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8025. ",
+            "expediente_transferencia_interna": "15894-FM-2014",
+            "monto_transferencia_interna": "495.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 21,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE GASEOSAS DESCARTABLES, AZÚCAR E INFUSIONES OF Nº1025-FM-DADM-14; OFICIO Nº0539-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8046. ",
+            "expediente_transferencia_interna": "16428-FM-2014",
+            "monto_transferencia_interna": "407.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 22,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE GASEOSAS Y DEMAS ALIMENTOS OF Nº1023-FM-DADM-14;               OFICIO Nº0536-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8002. ",
+            "expediente_transferencia_interna": "13477-FM-2014",
+            "monto_transferencia_interna": "402.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 23,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE GASEOSAS, AZÚCAR, ETC. OF Nº1066/FM-DADM/14; OFICIO Nº0540-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8045. ",
+            "expediente_transferencia_interna": "17354-FM-2014",
+            "monto_transferencia_interna": "307.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 24,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "ESCUELA DE POST GRADO",
+            "desc_transferencia_interna": "MATRICULA DEL SEMESTRE 213-II DE DOÑA JANETH REINA HURTADO ASTUDILLO, INGRESANTE DEL DOCTORADO EN CIENCIAS DE LA SALUD. OF Nº1014/FM-DADM/2014.",
+            "expediente_transferencia_interna": "20012-FM-2014",
+            "monto_transferencia_interna": "52.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 25,
+            "origen": "OFICINA DE ABASTECIMIENTO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE 70 UNID. DE CERTIFICADOSEN PAPEL OPALINA DE 180 GR. A PEDIDO DE LA OFIC. DE TRANSPORTE Y MAESTRANZA PARA EL EVENTO TALLER OF Nº01178/DGA-OGSGOM/14, PRESUPUESTO Nº13979.",
+            "expediente_transferencia_interna": "10101-DGA-2014",
+            "monto_transferencia_interna": "214.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 26,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE REIMPRESIÓN DE DIPTICOS (2 MODELOS) DE CONFORMIDAD CON LO PROGRAMADO EN EL CUADRO DE NECESIDADES DE LA OFIC. CENTRAL DE CALIDAD  ACADÉMICA Y ACREDITACIÓN OF Nº370/OCCAA-VRAC/2014. PRESUP. Nº13952",
+            "expediente_transferencia_interna": "01788-OGPL-2014",
+            "monto_transferencia_interna": "1201.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 27,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. PRESTADOS EN LA ELABORACIÓN DEL BOLETÍN INFORMATIVO DE LA FACULTAD, OF Nº 0545-DADM/UE-FISI-2014",
+            "expediente_transferencia_interna": "05112-FISI-2014",
+            "monto_transferencia_interna": "210.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 28,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "desc_transferencia_interna": "ASISTENCIA DE 21 PARTICIPANTES AL CURSO DE \"ASISTENTE DE GERENCIA FRENTE A LAS NUEVAS TENDENCIAS ADMINISTRATIVAS EN LA GESTIÓN PÚBLICA\" OF Nº 0755/FM-DADM/2014.",
+            "expediente_transferencia_interna": "16175-FM-2104",
+            "monto_transferencia_interna": "1050.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 29,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "OFICINA GENERAL DE BIENESTAR UNIVERSITARIO",
+            "desc_transferencia_interna": "CONSUMO DE 49 RACIONES DE MENUS( COMEDOR DOCENTE) OF Nº135/FIGMMG-DAD-UE/2014.",
+            "expediente_transferencia_interna": "05984-FIGMMG-2014",
+            "monto_transferencia_interna": "220.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 30,
+            "origen": "OFICINA CENTRAL DE ADMISION",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE ATENCIÓN DE REFRIGERIOS OF Nº1369/J-OCA/14, GUIA Nº 7912",
+            "expediente_transferencia_interna": "03393-OCA-2014",
+            "monto_transferencia_interna": "5200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 31,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE 02 MILLARES DE FORMATO PEDIDO -COMPROBANTES DE SALIDA GUIA REM. 041 Nº032912;  OF Nº719/FIEE-DIR.ADM./2014",
+            "expediente_transferencia_interna": "02845-FIEE-2014",
+            "monto_transferencia_interna": "1463.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-10",
+            "id_transferencia_interna": 32,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "ESCUELA DE POST GRADO",
+            "desc_transferencia_interna": "MATRIUCULA DEL SEMESTRE 2013-II DE LOS ALUMNOS INGRESANTES 2013-II DEL DOCTORADO DE CIENCIAS DE LA SALUD OF Nº0776/FM-DADM/2014.",
+            "expediente_transferencia_interna": "16876-FM-2014",
+            "monto_transferencia_interna": "832.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 33,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE BEBIDAS Y ALIMENTOS OF Nº0984-FM-DADM-14; OFICIO Nº0516-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7932",
+            "expediente_transferencia_interna": "16017-FM-2014",
+            "monto_transferencia_interna": "720.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 34,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "TITUTO DE SEGUNDA ESPECIALIZACIÓN EN EPIDEMIOLOGIA DE CAMPO DE DON ARMANDO LLAMOCA RODRIGUEZ, OF Nº0876/FM-DADM/2014",
+            "expediente_transferencia_interna": "17432-FM-2014",
+            "monto_transferencia_interna": "745.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 35,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE 500 EJEMPLARES DE \"MANUAL DE ESTUDIANTE DEL PREVENTORIO PARA EL DESARROLLO HUMANO\", OFNº0882/FM-DADM/2014. GUIA DE REM. 041 Nº031387, 031279,031262",
+            "expediente_transferencia_interna": "02170-FM-2013",
+            "monto_transferencia_interna": "2325.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 36,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0597-DADM/UE-FISI-2014; OFICIO Nº0518-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7934 ",
+            "expediente_transferencia_interna": "05017-FISI-2014",
+            "monto_transferencia_interna": "67.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 37,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0627-DADM/UE-FISI-2014; OFICIO Nº0561-CEUPS-PANADERIA-FII-14. GUIA REM. 026 Nº8044  ",
+            "expediente_transferencia_interna": "03292-FII-2014",
+            "monto_transferencia_interna": "156.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 38,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0626-DADM/UE-FISI-2014; OFICIO Nº0519-CEUPS-PANADERIA-FI-14I. GUIA REM. 026 Nº7935.",
+            "expediente_transferencia_interna": "03291-FII-2014",
+            "monto_transferencia_interna": "85.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 39,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0569-DADM/UE-FISI-2014;              OFICIO Nº0496-CEUPS-PANADERIA-FII-14. GUIA REM. 026 Nº7863.",
+            "expediente_transferencia_interna": "02932-FII-2014",
+            "monto_transferencia_interna": "120.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-04",
+            "id_transferencia_interna": 40,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "CRONOGRAMA DE PAGOS SEPTIEMBRE 14. SEGUN OFICIO 1251-OE-FMV-2014 ",
+            "expediente_transferencia_interna": "EXP.07608-FMV-2014",
+            "monto_transferencia_interna": "7094.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 41,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "SERV. PRESTADOS EN EL DICTADO DEL SEMINARIO VIRTUAL ORGANIZADO POR LA SECRETARIA GENERAL OF Nº0643-DADM/UE-FISI-2014",
+            "expediente_transferencia_interna": "06443-FISI-2014",
+            "monto_transferencia_interna": "700.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 42,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "INSTITUTO RAÚL PORRAS BARRENECHEA",
+            "desc_transferencia_interna": "ASISTENCIA AL CURSO \"PROTOCOLO Y ORGANIZACIÓN DE EVENTOS\" REALIZADOS EL 22, 23 Y 24, OF Nº1258-FPSIC-D/2014.",
+            "expediente_transferencia_interna": "02308-FPSIC-2014",
+            "monto_transferencia_interna": "300.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 43,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "MEDALLA, ESTUCHES, ARREGLOS FLORALES PARA LA CEREMONIA DEL PROFESOR HONORARIO AL DR. JUAN DELVAL OF Nº01246-FPSIC-D/2014.",
+            "expediente_transferencia_interna": "02449-FPSIC-2014",
+            "monto_transferencia_interna": "2120.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 44,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "IMPRESIÓN DE TARJETAS PARA LA CEREMONIA DEL PROFESOR HONORARIO AL DR. JUAN DELVAL OF Nº01246-FPSIC-D/2014.",
+            "expediente_transferencia_interna": "02449-FPSIC-2014",
+            "monto_transferencia_interna": "360.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 45,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "CENTRO CULTURAL",
+            "desc_transferencia_interna": "ALQUILER DE AMBIENTES PARA LA CEREMONIA DEL PROFESOR HONORARIO AL DR. JUAN DELVAL OF Nº01246-FPSIC-D/2014.",
+            "expediente_transferencia_interna": "02449-FPSIC-2014",
+            "monto_transferencia_interna": "600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 46,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "TITUTO DE SEGUNDA ESPECIALIZACIÓN EN EPIDEMIOLOGIA DE CAMPO OF Nº0779/FM-DADM/2014.",
+            "expediente_transferencia_interna": "16126-FM-2014",
+            "monto_transferencia_interna": "15645.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 47,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "desc_transferencia_interna": "ASISTENCIA DE 5 PARTICIPANTES AL CURSO DE \"ASISTENTE DE GERENCIA FRENTE A LAS NUEVAS TENDENCIAS ADMINISTRATIVAS EN LA GESTIÓN PÚBLICA\".OF Nº01165-FPSIC-D/2014.",
+            "expediente_transferencia_interna": "02337-FPSIC-2014",
+            "monto_transferencia_interna": "500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 48,
+            "origen": "FACULTAD DE LETRAS Y CIENCIAS HUMANAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIO DE FOLDERES PLASTIFICADOS, REVISTA, CERTIFICADO DE ESTUDIOS, OF Nº538/FLCH-DA/2014. ORDEN DE SERVICIO 14000583, 14000335, 14000581.",
+            "expediente_transferencia_interna": "07408-FLCH-2014",
+            "monto_transferencia_interna": "8887.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 49,
+            "origen": "FACULTAD DE LETRAS Y CIENCIAS HUMANAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "SERV. CAPAPACITACIÓN EN EL CENTRO DE INFORMATICA \"LINUX BÀSICO Y ADMINISTRACIÓN\" OF Nº579/FLCH-DA/2014.",
+            "expediente_transferencia_interna": "08191-FLCH-2014",
+            "monto_transferencia_interna": "720.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 50,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN AL PROGRAMA DE BACHILERATO EN EDUCACIÓN.OF Nº1308-D-FE-2014. PRESUPUESTO Nº 12232 Y 12234, GUIA REM. 041-Nº031403, 031425, 031460, 031523, 031615, 031117, 31124, 031162, 031171, 031195.",
+            "expediente_transferencia_interna": "29801-FE-2013",
+            "monto_transferencia_interna": "31602.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 51,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN  AL PROGRAMA DE LICENCIATURA OF. Nº1253-D-FE-2014.PRESUP. Nº 11433, 11347, 11079, 11251, 11346. GUIA REM. 041-Nº030196, 030198, 030202, 030097, 030187, 029061, 029043, 029527, 29534.",
+            "expediente_transferencia_interna": "20798-FE-2013",
+            "monto_transferencia_interna": "35133.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 52,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCIÓN DE MALETINES A LA UNIDAD DE POST GRADO OF Nº2202-D-FE-2014. PRESUPUESTO Nº13604, 13607, 13778-B.",
+            "expediente_transferencia_interna": "12839-FE-2014",
+            "monto_transferencia_interna": "7756.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 53,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "SERV. CAPAPACITACIÓN EN EL CENTRO DE INFORMATICA \"LINUX BÀSICO Y ADMINISTRACIÓN\" OF Nº2272-D-FE-2014",
+            "expediente_transferencia_interna": "17917-FE-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 54,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "CANCELACIÓN DE 400 UNIDADES DE PANETÓN EN CAJA OF Nº2260-D-FE-2014.OFICIO Nº0112-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7411.",
+            "expediente_transferencia_interna": "11832-FE-2014",
+            "monto_transferencia_interna": "7400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 167,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "OFICINA GENERAL DE BIENESTAR UNIVERSITARIO",
+            "desc_transferencia_interna": "POR CONSUMO DE 200 RACIONES DE ALIMENTOS OF Nº169/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "07470-FIGMMG-2014",
+            "monto_transferencia_interna": "900.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 55,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "PAGO DE ALQUIER DE AULAS CORREPSONDIENTES AL MES DE ENERO Y FEBRERO 2014, OF Nº2205-D-FE-2014. HOJA DE REQ. 2014045018.",
+            "expediente_transferencia_interna": "13285-FE-2014",
+            "monto_transferencia_interna": "14690.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 56,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE CIENCIAS ECONOMICAS",
+            "desc_transferencia_interna": "PARTICIPACIÓN DE LA SRTA. MARIA FLOR GARCIA COTRINA AL CURSO DE CAPACITACIÓN \"CONTRATACIONES DEL ESTADO\" OF Nº 437/FCCSS-UE/2014.OF Nº437/FCCSS-UE/2014",
+            "expediente_transferencia_interna": "04820-FCCSS-2014",
+            "monto_transferencia_interna": "500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 57,
+            "origen": "CLÍNICA UNIVERSITARIA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "4298.55"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 58,
+            "origen": "ESCUELA DE POST GRADO",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2104",
+            "monto_transferencia_interna": "4951.35"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 59,
+            "origen": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "3109.13"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 60,
+            "origen": "OFICINA CENTRAL DE ADMISION",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "7189.13"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 61,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "21438.23"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 62,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "69391.80"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 63,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "11187.68"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 64,
+            "origen": "FACULTAD DE LETRAS Y CIENCIAS HUMANAS",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "20411.25"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 65,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "11497.05"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 66,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "20017.65"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 67,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "20224.43"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 68,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DE FOTOCOPIADORAS OF Nº00865-DGA-2014",
+            "expediente_transferencia_interna": "09154-DGA-2014",
+            "monto_transferencia_interna": "4824.53"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 69,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE ELABORACIÓN DE AGENDAS SAN MARQUINAS. (OFICINA ASESORIA LEGAL) OF Nº1063-OGAL-R-14.PRESUP. Nº 12433. GUIA REM. 041 Nº30865",
+            "expediente_transferencia_interna": "09067-DGA-2014",
+            "monto_transferencia_interna": "204.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 70,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE CARTILLAS,  REGLAMENTOS, CEDULAS , AFICHES PARA ELECCIONES (RECTORADO), OF Nº316/R-OCPT/2014. HOJA REQ. 2014054822, GUIA REM. 041 Nº31192, 31202,31193, 31191, 31190, 31187, 31188, 31197, 31198, 29789, 31003.",
+            "expediente_transferencia_interna": "01954-OGPL-2014",
+            "monto_transferencia_interna": "10692.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 71,
+            "origen": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN DE TARJETAS INSTITUCIONALES, OF Nº4212/DGA-OGRRHH/2014.PRESUP. Nº 14169-B, 14169.",
+            "expediente_transferencia_interna": "13023-SG-2014",
+            "monto_transferencia_interna": "160.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 72,
+            "origen": "OFICINA GENERAL DE BIENESTAR UNIVERSITARIO",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN EN EL CURSO \"LINUX BÁSICO Y ADMINISTRATIVO\"OF Nº1661/DGA-OGBU/2014.",
+            "expediente_transferencia_interna": "11377-DGA-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 73,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "INSTITUTO RAÚL PORRAS BARRENECHEA",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN (OFICINA ASESORIA LEGAL) AL CURSO \" PROTOCOLO Y ORGANIZACIÓN DE EVENTOS\" ORGANIZADO POR EL INST. RAUL PORRAS BARRENECHEA. OF Nº 1365-OGAL-R-14",
+            "expediente_transferencia_interna": "10994-DGA-2014",
+            "monto_transferencia_interna": "100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 74,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DEPORTADIPLOMAS TUBULARES,  OF. Nº02673-SG-2014.PRESUP. 14009",
+            "expediente_transferencia_interna": "11087-SG-2014,",
+            "monto_transferencia_interna": "6165.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 75,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCIÓN DE 3000 PORTADIPLOMAS TUBULARES, OF Nº02465-SG-2104.PRESUP. Nº 13633, GUIA REM. 041- Nº 32523, 32633, 32731, 32819, 32838.",
+            "expediente_transferencia_interna": "10555-SG-2014",
+            "monto_transferencia_interna": "11000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 76,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN  EN EL CENTRO DE INFORMÁTICA, OF Nº02778-SG-2014.HOJA DE REQUERIMIENTO 2014056110.",
+            "expediente_transferencia_interna": "11471-SG-2104",
+            "monto_transferencia_interna": "2220.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 77,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE PAPEL MEMBRETADO, OF Nº02767-SG-2014. HOJA REQ. 2014055847 - PRESUP. 14060.",
+            "expediente_transferencia_interna": "11528-SG-2014",
+            "monto_transferencia_interna": "1000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 78,
+            "origen": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN FORMATO ÚNICO DE TRAMITE, OF Nº3774/DGA-OGRRHH/2014HOJA REQUERIMIENTO 2014056802, PRESUP. Nº 14078",
+            "expediente_transferencia_interna": "11759-SG-2104",
+            "monto_transferencia_interna": "204.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 79,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "INSTITUTO RAÚL PORRAS BARRENECHEA",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN AL CURSO \" PROTOCOLO Y ORGANIZACIÓN DE EVENTOS\" ORGANIZADO POR EL INST. RAUL PORRAS BARRENECHEA. OF Nº 02865-SG-2014.",
+            "expediente_transferencia_interna": "11665-SG-2014",
+            "monto_transferencia_interna": "300.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 80,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "FACULTAD DE DERECHO",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN EN EL DIPLOMADO DE ESPECIALIZACIÓN: DERECHO PROCESAL CONSTITUCIONAL, INFORME Nº105-UTD-SG-14.",
+            "expediente_transferencia_interna": "11901-SG-2014",
+            "monto_transferencia_interna": "520.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 81,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DEL BOLETIN Nº2, OF Nº632-SG-OAC-2014. PRESUP. Nº14141",
+            "expediente_transferencia_interna": "12941-SG-2014",
+            "monto_transferencia_interna": "1307.35"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 82,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE TRIPTICOS, LIBRO DE TEXTO \"UNIÓN OBRERA FLORA TRISTAN\" PROVEIDO Nº 237-DGA-OC-2014. GUIA REM. 041 Nº026137, 27913, 27953, 28529, 28538, 28546, 28509, 28513.",
+            "expediente_transferencia_interna": "13417-DGA-2014",
+            "monto_transferencia_interna": "16585.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 83,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE BOLETIN DE INFORMACIÓN MEMORAND. Nº272-VRAC-2014PRESUPUESTO Nº 13551.",
+            "expediente_transferencia_interna": "01647-OGPL-2014",
+            "monto_transferencia_interna": "18632.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 84,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN DE LIBRO \"JORNADAS CURRICULAR UNIVERSITARIA 2012-2013PRESUPUESTO Nº14329",
+            "expediente_transferencia_interna": "MEMORANDUM Nº 451-VRAC-2014",
+            "monto_transferencia_interna": "10000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-06",
+            "id_transferencia_interna": 85,
+            "origen": "FACULTAD DE LETRAS Y CIENCIAS HUMANAS",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DEL AUDITORIO ROSA ALARCO LARRABURRE CON EL MOTIVO DEL IV COLOQUIO INTERNACIONAL DE FILOSOFIA POLITICA \"SABER Y PODER. PERSPECTIVA DECOLONIALES\". QUE SE REALIZARA EL 05 DE NOVIEMBRE DEL 2014. OF Nº 1214-D-FLCH-2014",
+            "expediente_transferencia_interna": "09278-FLCH-2014",
+            "monto_transferencia_interna": "510.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 86,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCION DE MALETINES PARA EL PROGRAMA DE SEGUNDA ESPECIALIZACIÓN - MINEDU 2014, OF Nº2262-D-FE-2014. HOJA REQ. 2014042062, 2014044783, 2014042064, 2014044721.",
+            "expediente_transferencia_interna": "12846-FE-2014",
+            "monto_transferencia_interna": "9940.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 87,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCION DE MALETINES PARA EL PROGRAMA DE SEGUNDA ESPECIALIZACIÓN - MINEDU 2014, OF Nº2204-D-FE-2014. HOJA REQ. 2014047200, 2014042639, 2014042067.",
+            "expediente_transferencia_interna": "13242-FE-2014",
+            "monto_transferencia_interna": "10304.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 88,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE REVISTAS, HOJAS MEMBRETADAS Y DIPLOMAS PARA A UNIDAD DE POST GRADO OF Nº2203-D-FE-2014, PRESUP. Nº 13760, 13793, 16384-B.GUIA REM. 041- Nº32579, 32486.",
+            "expediente_transferencia_interna": "15601-FE-2104",
+            "monto_transferencia_interna": "8635.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 89,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMRESIÓN DE DIPLOMAS, HOJAS MEMBRETADAS Y LIBROS PARA LA UNIDAD DE POST GRADO OF Nº2263-D-FE-2014. PRESUP. Nº 13842, 13631, 13778.",
+            "expediente_transferencia_interna": "16671-FE-2014",
+            "monto_transferencia_interna": "6083.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 90,
+            "origen": "CENTRO DE INFORMÁTICA UNMSM",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN DE VOLANTES OF Nº0391-CINFO-2014, PRESUP. Nº 14001-B, 14001. GUIA REM. 041- Nº32968, 33010.",
+            "expediente_transferencia_interna": "11298-DGA-2014",
+            "monto_transferencia_interna": "1400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 91,
+            "origen": "CENTRO DE INFORMÁTICA UNMSM",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN DE VOLANTES Y SOBRES MEMBRETADOS, OF Nº0326-CINFO-2104. PRESUP. 13537, 13832. GUIA REM. 041- Nº32511, 32668.",
+            "expediente_transferencia_interna": "09278-DGA-2014",
+            "monto_transferencia_interna": "2640.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-16",
+            "id_transferencia_interna": 92,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESION DEL LIBRO DE ACREDITACION INTERNACIONAL.MEMORANDUM Nº 449-VRAC-2014, PRESUPUESTO Nº 14271.",
+            "expediente_transferencia_interna": "01735-OGLP-2014",
+            "monto_transferencia_interna": "7560.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 93,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE CIENCIAS CONTABLES",
+            "desc_transferencia_interna": "PARTICIPACIÓN AL CURSO DE CAPACITACIÓN \"PROGRAMA DE ESPECIALIZACIÓN EN GESTIÓN DE LAS CONTRATACIONES PÚBLICAS DE BIENES Y SERVICIOS\" OF Nº099/DIR.ADM.-FIEE/2014.",
+            "expediente_transferencia_interna": "00442-FIEE-2014",
+            "monto_transferencia_interna": "10800.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 94,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº822/DIR.ADM.-FIEE/2014;OFICIO Nº0543-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08039.",
+            "expediente_transferencia_interna": "02952-FIEE-2014",
+            "monto_transferencia_interna": "110.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 95,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº823/DIR.ADM.-FIEE/2014;OFICIO Nº0542-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08022.",
+            "expediente_transferencia_interna": "02786-FIEE-2014",
+            "monto_transferencia_interna": "223.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 96,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº826/DIR.ADM.-FIEE/2014;OFICIO Nº0547-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08043.",
+            "expediente_transferencia_interna": "02932-FIEE-2014",
+            "monto_transferencia_interna": "300.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 97,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº827/DIR.ADM.-FIEE/2014;OFICIO Nº0545-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08033.",
+            "expediente_transferencia_interna": "02897-FIEE-2014",
+            "monto_transferencia_interna": "416.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 98,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº829/DIR.ADM.-FIEE/2014;OFICIO Nº0517-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº07933.",
+            "expediente_transferencia_interna": "02713-FIEE-2014",
+            "monto_transferencia_interna": "321.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 99,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº825/DIR.ADM.-FIEE/2014;OFICIO Nº0546-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08031.",
+            "expediente_transferencia_interna": "02857-FIEE-2014",
+            "monto_transferencia_interna": "393.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 100,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº824/DIR.ADM.-FIEE/2014;OFICIO Nº0541-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08016.",
+            "expediente_transferencia_interna": "02787-FIEE-2014",
+            "monto_transferencia_interna": "38.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 101,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº828/DIR.ADM.-FIEE/2014;OFICIO Nº0544-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08034.",
+            "expediente_transferencia_interna": "02903-FIEE-2014",
+            "monto_transferencia_interna": "40.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 102,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº853/DIR.ADM.-FIEE/2014;OFICIO Nº0576-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08068.",
+            "expediente_transferencia_interna": "03055-FIEE-2014",
+            "monto_transferencia_interna": "150.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 103,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº855/DIR.ADM.-FIEE/2014;OFICIO Nº0548-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08017.",
+            "expediente_transferencia_interna": "03160-FIEE-2014",
+            "monto_transferencia_interna": "30.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 104,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº856/DIR.ADM.-FIEE/2014;OFICIO Nº0577-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08070.",
+            "expediente_transferencia_interna": "03070-FIEE-2014",
+            "monto_transferencia_interna": "53.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 105,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº883/DIR.ADM.-FIEE/2014;OFICIO Nº0598-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08097.",
+            "expediente_transferencia_interna": "03157-FIEE-2014",
+            "monto_transferencia_interna": "300.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 106,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº865/DIR.ADM.-FIEE/2014;OFICIO Nº0572-14-CEUPS-PANADERIA-FII. ",
+            "expediente_transferencia_interna": "03019-FIEE-2014",
+            "monto_transferencia_interna": "720.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-20",
+            "id_transferencia_interna": 107,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº854/DIR.ADM.-FIEE/2014;OFICIO Nº0578-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº08072.",
+            "expediente_transferencia_interna": "03058-FIEE-2014",
+            "monto_transferencia_interna": "233.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 108,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN MANUAL DE PROYECTO TUNING- GUIA DE ESTUDIANTES.(OFICINA COOP. Y RELACIONES INTER.) OF. Nº1417-OGCRI-2014, PRESUP. Nº 13968",
+            "expediente_transferencia_interna": "01882-OGPL-2014",
+            "monto_transferencia_interna": "3096.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 109,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE BOLSAS INSTITUCIONALES CON EL LOGO DE LA UNMSM, TARJETAS INST. (OFICINA COOP. Y RELACIONES INTERINSTITUCIONALES).OF. Nº 1418-OGCRI-2014, PRESUP. Nº 13915-B, 13666.",
+            "expediente_transferencia_interna": "01881-OGPL-2014",
+            "monto_transferencia_interna": "4826.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 110,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE DISEÑO, DIAGRAMACIÓN, IMPRESIÓN Y EMPASTADO DE LIBRETAS Y BLOCK CON EL LOGO UNMSM ( OFICINA COOP. Y RELAC. INTERINSTITUCIONALES)OF. Nº1139-OGCRI-2014, PRESUP. Nº 13916, 13914.",
+            "expediente_transferencia_interna": "01650-OGPL-2014",
+            "monto_transferencia_interna": "8569.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 111,
+            "origen": "OFICINA GENERAL DE COOPERACIÓN Y RELACIONES INTER INSTITUCIONALES",
+            "destino": "RED TELEMATICA",
+            "desc_transferencia_interna": "SERV. DE EMISIÓN DE FOTOCHECK PARA ESTUDIANTES EXTRANJEROS.OF. Nº1419-OGCRI-2014. HOJA REQ. 2014055058.",
+            "expediente_transferencia_interna": "01880-OGPL-2014",
+            "monto_transferencia_interna": "350.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 112,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCIÓN DE FOLDER CON BOLSILLO A FULL COLOR DE ARTULINA.OF. Nº 1510-OGCRI-2014, PRESUP. Nº 14054-C.",
+            "expediente_transferencia_interna": "01960-OGPL-2014",
+            "monto_transferencia_interna": "1089.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 113,
+            "origen": "VICERRECTORADO DE INVESTIGACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN DEL LIBRO ACTAS DEL IV CONGRESO HACIA EL BICENTENARIO.MEMORANDUM Nº 675-VRI-2013, PRESUP. Nº 12890. GUIA REM 041- Nº32549, 32548.",
+            "expediente_transferencia_interna": "15172-DGA-2013",
+            "monto_transferencia_interna": "6510.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 114,
+            "origen": "VICERRECTORADO DE INVESTIGACION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN DEL BOLETIN VRI, MEMO. Nº 666-VRI-2013.PRESUP. Nº 13260. GUIA REM. 041 Nº32208, 32202, 32314.",
+            "expediente_transferencia_interna": "15065-DGA-2013",
+            "monto_transferencia_interna": "5598.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 115,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE BLOCK ANILLADO (OFICINA DE CALIDAD ACAD. Y ACREDIT.)OF Nº409-OCCAA-VRAC-2014. PREUP. Nº 13994.",
+            "expediente_transferencia_interna": "01903-OGPL-2014",
+            "monto_transferencia_interna": "5463.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 116,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE CALENDARIO (OFICINA DE CALIDAD Y ACREDITACIÓN).OF Nº 411-OCCAA-VRAC-2014, PRESUP. Nº 14012.",
+            "expediente_transferencia_interna": "01908-OGPL-2014",
+            "monto_transferencia_interna": "2880.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 117,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN DE LIBRETAS DE NOTAS (OFICINA DE CALIDAD Y ACREDITACIÓN).OF Nº 410-OCCAA-VRAC-2014, PRESUP. Nº 14027.",
+            "expediente_transferencia_interna": "01909-OGPL-2014",
+            "monto_transferencia_interna": "3654.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 118,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE BOLSA BOND (OFICINA DE CALIDAD Y ACREDITACIÓN).OF Nº 412-OCCAA-VRAC-2014, PRESUP. Nº 13995.",
+            "expediente_transferencia_interna": "01907-OGPL-2014",
+            "monto_transferencia_interna": "1039.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 119,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIÓN CARPETA CON BOLSILLO (OFICINA DE CALIDAD Y ACREDITACIÓN).OF Nº 413-OCCAA-VRAC-2014, PRESUP. Nº 14008.",
+            "expediente_transferencia_interna": "01905-OGPL-2014",
+            "monto_transferencia_interna": "852.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 120,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE BLOCK OCCAA (OFICINA DE CALIDAD Y ACREDITACIÓN).OF Nº 457-OCCAA-VRAC-2014, PRESUP. Nº 14157.",
+            "expediente_transferencia_interna": "02074-OGPL-2014",
+            "monto_transferencia_interna": "5230.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-24",
+            "id_transferencia_interna": 121,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE REVISTA OCCAA (OFICINA DE CALIDAD Y ACREDITACIÓN).OF Nº 455-OCCAA-VRAC-2014, PRESUP. Nº 14137.",
+            "expediente_transferencia_interna": "02067-OGPL-2014",
+            "monto_transferencia_interna": "4868.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 122,
+            "origen": "CLÍNICA UNIVERSITARIA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESIONES VARIOS. OF Nº 389/DGA-CUSM/2014, PRESUP. Nº 11937, 12821, 13184, 13552. GUIA REM. 041 Nº 30291, 30285, 31530, 31544, 31595, 31609, 31653, 31768, 31822, 31837, 31899, 31842, 31917, 32301.",
+            "expediente_transferencia_interna": "01937-OGPL-2014",
+            "monto_transferencia_interna": "8734.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 123,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "Serv. de atención al Personal Docente y Administativo del Centro Preuniversitario en el 2º(22-06-14)  y 3º Examen (20-07-14). OF Nº0808-DE-CEPREUNMSM-2014 - OF.0390-CEUPS-PANADERIA-FII.",
+            "expediente_transferencia_interna": "02221-FII-2014",
+            "monto_transferencia_interna": "3780.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 124,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "desc_transferencia_interna": "USO DE 05 AULAS Y 01 OFICINA ADMIN. DEL 01 AL 05-09-14, CICLO REPASO 2014-I. OF. Nº0967-DE-CEPREUNMSM-2014",
+            "expediente_transferencia_interna": "02737-FCM-2014",
+            "monto_transferencia_interna": "2041.70"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 125,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "FACULTAD DE CIENCIAS FÍSICAS",
+            "desc_transferencia_interna": "SALDO CORRESP. AL USO DE AULAS, AMBIENTES ADMINIST. EN EL CICLO ORD. 2014-I. OF Nº0965-DE-CEPREUNMSM-2014",
+            "expediente_transferencia_interna": "12701-DGA-2014",
+            "monto_transferencia_interna": "6600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 126,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. ATENCIÓN AL PERSONAL DOCENTE Y ADMINIST. DEL CENTRO PREUNIVERSIT. QUE PARTICIPARON EN EL 4º EXAMEN (31-08-14). OF Nº0965-DE-CEPREUNMSM-2014; OF.0527-14-CEUPS-PANADERIA-FII.",
+            "expediente_transferencia_interna": "12198-DGA-2014",
+            "monto_transferencia_interna": "1974.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 127,
+            "origen": "ESCUELA DE POST GRADO",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "ALQ. DEL AUDITORIO ROSA ALARCO PARA LA CONFERENCIA INTERN. DE \"LA ALDEA GLOBAL: LIBERTAD DE CONCIENCIA Y COMO LOGRAR UN MUNDO SEGURO PARA LA DIVERSIDAD\" EL 15-10-14. OF Nº01262-EPG-2014.",
+            "expediente_transferencia_interna": "00543-EPG-2014",
+            "monto_transferencia_interna": "510.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 128,
+            "origen": "ESCUELA DE POST GRADO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. PRESTADOS DE ATENCIÓN Y REFRIGERIOS, OF Nº01262-EPG-2014 ; OFICIO Nº0297,0861, 1017, 1037-OE-FII-2014. GUIA DE REM. 026-Nº 06488, 06865, 06864, 07760 Y 07854.",
+            "expediente_transferencia_interna": "0564-EPG-2014",
+            "monto_transferencia_interna": "642.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 129,
+            "origen": "ESCUELA DE POST GRADO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº01503.EPG.2014 ; OFICIO Nº 0562-14-CEUPS-PANADERIA-FII, GUIA DE REM. 026-Nº08030.",
+            "expediente_transferencia_interna": "03120-FII-2014",
+            "monto_transferencia_interna": "240.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 130,
+            "origen": "ESCUELA DE POST GRADO",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "SERV. DE ALQUILER DEL AUDITORIO ROSA ALARCO POR INAGURACIÓN DEL XVIII EDICIÓN DE LA ESCUELA COMPLUTENSE LATINOAMERICANA EL 27-10-14,                OF Nº01582-EPG-2014.",
+            "expediente_transferencia_interna": "0693-EPG-2104",
+            "monto_transferencia_interna": "510.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 131,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "OFICINA DE AUTOSEGURO",
+            "desc_transferencia_interna": "POR EL CICLO DE PREPARACIÓN EXTRAORDINARIO 2013-2014, OF Nº0962-DE-CEPREUNMSM-2014.",
+            "expediente_transferencia_interna": "12702-DGA-2104",
+            "monto_transferencia_interna": "34070.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 132,
+            "origen": "OFICINA CENTRAL DE ADMISION",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE ATENCIÓN DE REFRIGERIOS OF Nº0156/DG-OCA/14, 20 Y 21-09-14 OFICIO Nº0582-14-CEUPS-PANADERIA-FII, GUA REM. 026- N º 08058 Y 08059.",
+            "expediente_transferencia_interna": "03433-FII-2014",
+            "monto_transferencia_interna": "15460.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 133,
+            "origen": "OFICINA CENTRAL DE ADMISION",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "ASISTENCIA DEL SR. JULIO CESAR TECO ARRATEA AL CURSO \" LINUX BÁSICO - ADMINISTRACIÓN\", OF Nº1505/J-OCA/14",
+            "expediente_transferencia_interna": "03651-OCA-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-07",
+            "id_transferencia_interna": 134,
+            "origen": "SEMINARIO DE HISTORIA RURAL ANDINA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESION FACTURA Nº041- 08665, GUIA REM. 041 - Nº026135 Y 026145.",
+            "expediente_transferencia_interna": "PROVED. 234-DGA-OC-2014",
+            "monto_transferencia_interna": "1393.20"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 135,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "ESCUELA DE POST GRADO",
+            "desc_transferencia_interna": "MATRIUCULA DEL SEMESTRE 2014-I DE LOS ALUMNOS INGRESANTES 2013-II DEL DOCTORADO DE CIENCIAS DE LA SALUD OF Nº0798/FM-DADM/2014.",
+            "expediente_transferencia_interna": "16878-FM-2014",
+            "monto_transferencia_interna": "780.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 136,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "COMPRA DE CAFÉ,  AZÚCAR, ETC. OF Nº 0778/FM-DADM/2104; OFICIO Nº0418-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº7814.",
+            "expediente_transferencia_interna": "12366-FM-2014",
+            "monto_transferencia_interna": "89.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 137,
+            "origen": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "ATENCIÓN AL CURSO \"LINUX BÁSICO\"  OF Nº 658-FCA-DADM-2014.",
+            "expediente_transferencia_interna": "05511-FCA-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 138,
+            "origen": "FACULTAD DE CIENCIAS FÍSICAS",
+            "destino": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "desc_transferencia_interna": "ASISTENCIA DE 04 PARTICIPANTES AL CURSO DE \"ASISTENTE DE GERENCIA FRENTE A LAS NUEVAS TENDENCIAS ADMINISTRATIVAS EN LA GESTIÓN PÚBLICA\"    OF Nº274-DADM-FCF-2014.",
+            "expediente_transferencia_interna": "01265-FCF-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 139,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "POR CONCEPTO DE IMPRESIÓN DE LIBRO DE REGISTROS DE GRADO ACADÉMICO DE MAGISTER Nº002, OF Nº01605/FFB-D/2014.",
+            "expediente_transferencia_interna": "04650-FFB-2014",
+            "monto_transferencia_interna": "247.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 140,
+            "origen": "FACULTAD DE CIENCIAS FÍSICAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE ELABORACIÓN DE CUADERNO DE REGISTRO SEGÚN DETALLES DE LA PLATAFORMA, OF Nº1245-D-FCF-2014.",
+            "expediente_transferencia_interna": "01833-FCF-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 141,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFIRGERIOS PRESTADOS OF. Nº 884/DIR.ADM.-FIEE/2014;                 OFICIO Nº0599-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº08093.",
+            "expediente_transferencia_interna": "03179-FIEE-2014",
+            "monto_transferencia_interna": "54.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 142,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "TRANSFERENCIA DE UN SALDO RESTANTE POR CONCEPTO DE REFRIGERIOS       OF Nº430/FCCSS-UE/2014; OFICIO Nº0571-14-CEUPS-PANADERIA-FII.                              GUIA REM.026- Nº08063.",
+            "expediente_transferencia_interna": "04441-FCCSS-2014",
+            "monto_transferencia_interna": "7.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 143,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "USO DEL AUDITORIO \"ROSA ALARCO LARRABURE\" PARA LA REALIZACIÓN DEL \"XXXIV ANIVERSARIO DE LA ESPECIALIDAD DE ING. GEOGRÁFICA\"OF Nº174/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "07604-FIGMMG-2014",
+            "monto_transferencia_interna": "1020.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 144,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "PARTICIPACIÓN DE 07 SECRETARIAS EN LE SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\"                  OF Nº1457-OE-FMV-14.",
+            "expediente_transferencia_interna": "08504-FMV-2014",
+            "monto_transferencia_interna": "350.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 145,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "PAGO DE LA DEUDA SEGUN CRONOGRAMA CORRESPONDIENTE AL MES DE OCTUBRE 2014, OF Nº1410-OE-FMV-14",
+            "expediente_transferencia_interna": "08652-FMV-2014",
+            "monto_transferencia_interna": "6679.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 146,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "INSCRIPCIÓN DEL SR. CARLOS PALOMINO ARANGO AL CURSO \"LINUX BÁSICO Y ADMINISTRACIÓN\"  OF Nº551-UE-DADM/FD-2104",
+            "expediente_transferencia_interna": "08573-FD-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 147,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFIRGERIOS PARA LA CAPACITACIÓN DOCENTE PARA LA INNOVACIÓN CURRICULAR OF Nº554-UE-DADM/FD-2014. GUIA REM. 026 Nº08105",
+            "expediente_transferencia_interna": "08559-FD-2014",
+            "monto_transferencia_interna": "370.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 148,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS EN EL CURSO TALLER \"PLAN DE MEJORA\"    OF Nº553-UE-DADM/FD-2014; OFICIO Nº0207-14-CEUPS-PANADERIA-FII, GUIA REM 026 Nº7529, 7532, 7539.",
+            "expediente_transferencia_interna": "01429-FII-2014",
+            "monto_transferencia_interna": "498.90"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 166,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "PARTICIPACIÓN DEL SR. NELSON ALEX VASQUEZ REYNA EN EL CURSO \"LINUX BÁSICO - ADMINISTRATIVO\" OF Nº164/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "07462-FIGMMG-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 149,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS EN EL CURSO \"SISTEMA DE GESTIÓN DE LA CALIDAD EDUCATIVA\" OF Nº510-UE-DADM/FD-2014; OFICIO Nº0508-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7931, 7938, 7942",
+            "expediente_transferencia_interna": "03211-FII-2014",
+            "monto_transferencia_interna": "442.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 150,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "CENTRO CULTURAL",
+            "desc_transferencia_interna": "POR ALQUIER DE AMBIENTES PARA EL \" IV COLOQUIO DE HISTORIA A CARGO DE LA ESCUELA ACADÉMICO PROFESIONAL DE HISTORIA DE SU FACULTAD\"                      OF Nº208/FCCSS-UE/2014",
+            "expediente_transferencia_interna": "04639-FCCSS-2014",
+            "monto_transferencia_interna": "2100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 151,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "desc_transferencia_interna": "CAPACITACIÓN DE LA SRA. LUZ HELENA VISALOT LAURENTE AL CURSO \"DIPLOMA DE ESPECIALIZACIÓN DE RECURSOS HUMANOS\" OF Nº203/FCCSS-UE/2014",
+            "expediente_transferencia_interna": "04558-FCCSS-2014",
+            "monto_transferencia_interna": "1575.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 152,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS EL 24-09-14. OF Nº206/FCCSS-UE/2104. GUIA REM. 026 Nº08063",
+            "expediente_transferencia_interna": "04560-FCCSS-2014",
+            "monto_transferencia_interna": "67.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 153,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "INSCRIPCIÓN AL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSIT. EN LA GESTIÓN INSTITUCIONAL 2014\" OF Nº223/FCCSS-UE/2014",
+            "expediente_transferencia_interna": "04881-FCCSS-2014",
+            "monto_transferencia_interna": "300.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 154,
+            "origen": "CENTRO DE INFORMÁTICA UNMSM",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "DE ACUERDO A LA NORMA VIGENTE Y CONFORME A LA VERIFICACIÓN DE QUE LOS PAGOS SOLICITADOS POR EL CEPREDIM NO HAN SIDO AFECTADOS PRESUPUESTALMENTE PROVEIDO Nº271-DGA-OC-2014, GUIA REM. 041 Nº30231, 30386, 30430, 30452, 30811, 30292, 30284,30128, 30129, 30418, 30499, 32395, 32380, 32351, 32340, 32332",
+            "expediente_transferencia_interna": "PROVEIDO Nº 271-DGA-OC-2014",
+            "monto_transferencia_interna": "16483.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 155,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "desc_transferencia_interna": "EXAMEN MÉDICO Y CARNET DE SANIDAD DEL PERSONAL QUE LABORA EN LA PLANTA PILOTO PANADERÍA OF Nº1325-UE-FII-2014.",
+            "expediente_transferencia_interna": "03432-FII-2014",
+            "monto_transferencia_interna": "495.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 156,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "INSTITUTO RAÚL PORRAS BARRENECHEA",
+            "desc_transferencia_interna": "PARTICIPACIÓN DE LA ING. DORA ARTICA CUBA EN EL CURSO \"PROTOCOLO Y ORGANIZACIÓN DE EVENTOS\" ORGANIZADO POR EL INST. RAUL PORRAS BARRENECHEA. OF Nº1237-UE-FII-2014",
+            "expediente_transferencia_interna": "03303-FII-2014",
+            "monto_transferencia_interna": "100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 157,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "PARTICIPACIÓN DEL SR. CLAUDIO CURASCO LOAYZA EN EL CURSO \"LINUX BÁSICO\" OF Nº1324-UE-FII-2014",
+            "expediente_transferencia_interna": "03431-FII-2014",
+            "monto_transferencia_interna": "200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 158,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "MEDALLA, ESTUCHES, ARREGLOS FLORALES PARA LA CEREMONIA DEL PROFESOR HONORARIO GEORGE RONALD SCHOFIELD BONILLO OF Nº1301-UE-FII-2014",
+            "expediente_transferencia_interna": "03358-FII-2014",
+            "monto_transferencia_interna": "2120.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 159,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "IMPRESIÓN DE TARJETAS PARA LA CEREMONIA DEL PROFESOR HONORARIO GEORGE RONALD SCHOFIELD BONILLO OF Nº1301-UE-FII-2014",
+            "expediente_transferencia_interna": "03358-FII-2014",
+            "monto_transferencia_interna": "360.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 160,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "CENTRO CULTURAL",
+            "desc_transferencia_interna": "ALQUILER DE AMBIENTES PARA LA CEREMONIA DEL PROFESOR HONORARIO GEORGE RONALD SCHOFIELD BONILLO OF Nº1301-UE-FII-2014",
+            "expediente_transferencia_interna": "03358-FII-2014",
+            "monto_transferencia_interna": "600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 161,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "PARTICIPACIÓN EN EL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL\" OF Nº1428-UE-FII-2014",
+            "expediente_transferencia_interna": "03633-FII-2014",
+            "monto_transferencia_interna": "550.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 162,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "PARTICIPACIÓN DEL SR. CLAUDIO CURASCO LOAYZA EN EL CURSO \"ADMINISTRACIÓN DE REDES CON LINUX\" OF Nº1429-UE-FII-2014",
+            "expediente_transferencia_interna": "03634-FII-2014",
+            "monto_transferencia_interna": "200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 163,
+            "origen": "FACULTAD DE ODONTOLOGIA",
+            "destino": "OFICINA DE TESORERÍA",
+            "desc_transferencia_interna": "PARTICIPACIÓN EN EL TALLER DE CAPACITACIÓN \"RETENCIÓN, PRECEPCIONES Y DETRACCIONES, ÚLTIMAS MODIFICACIONES Y APLICACIÓN PRÁCTICA\"                     OF Nº603/FO-DA-UE/2014",
+            "expediente_transferencia_interna": "03860-FO-2014",
+            "monto_transferencia_interna": "450.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 164,
+            "origen": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "destino": "OFICINA DE TESORERÍA",
+            "desc_transferencia_interna": "PARTICIPACIÓN EN EL TALLER DE CAPACITACIÓN \"RETENCIÓN, PRECEPCIONES Y DETRACCIONES, ÚLTIMAS MODIFICACIONES Y APLICACIÓN PRÁCTICA\"                     OF Nº00761-VRACAD/CEPREDIM-2014   ",
+            "expediente_transferencia_interna": "OF Nº00761-VRACAD/CEPREDIM-2104",
+            "monto_transferencia_interna": "300.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 165,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "USO DEL AUDITORIO \"ROSA ALARCO LARRABURE\" EL 20-09-14,         OF Nº150/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "06953-FIGMMG-2014",
+            "monto_transferencia_interna": "510.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 168,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "FACULTAD DE CIENCIAS CONTABLES",
+            "desc_transferencia_interna": "INSCRIPCIÓN DE 07 DOCENTES EN EL CURSO - TALLER INTERNACIONAL \"DOCENCIA UNIVERSITARIA\" OF Nº170/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "07598-FIGMMG-2014",
+            "monto_transferencia_interna": "2100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 169,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "OFICINA GENERAL DE RELACIONES PÚBLICAS",
+            "desc_transferencia_interna": "ALQUILER DE AMBIENTE Y DE EQUIPOS ADICIONALES EN EL TEATRO AUDITORIO ELLA DUMBAR TEMPLE, OF Nº158/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "07285-FIGMMG-2014",
+            "monto_transferencia_interna": "550.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 170,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "LEGALIZACIÓN DE 04 LIBROS DE ACTAS DE CONCEJO OF Nº0828/FM-DADM/2014",
+            "expediente_transferencia_interna": "17798-FM-2014",
+            "monto_transferencia_interna": "320.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 171,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE 100 AGENDAS SAN MARQUINAS AÑO 2013 Y 1000 BOLETINES DE LA REVISTA ANALES VOL. 73, OF Nº0912-FM-DADM-2014",
+            "expediente_transferencia_interna": "01888-FM-2013",
+            "monto_transferencia_interna": "9690.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 172,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "POR CONCEPTO DE TITULO DE SEGUNDA ESPECIALIZACIÓN EN EPIDEMIOLOGIA DE CAMPO OF Nº0877/FM-DADM/2014",
+            "expediente_transferencia_interna": "17113-FM-2014",
+            "monto_transferencia_interna": "745.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 173,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "LEGALIZACIÓN DE 01 LIBRO MOVIMIENTO DE CAJA DE LA OFICINA DEL PAYVTOF Nº1015/FM-DADM/2014",
+            "expediente_transferencia_interna": "19949-FM-2014",
+            "monto_transferencia_interna": "80.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-11",
+            "id_transferencia_interna": 174,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "TITULO DE SEGUNDA ESPECIALIZACIÓN EN EPIDEMIOLOGIA DE CAMPO DOÑA MARIA ELENA ARIAS CORONEL OF Nº1018/FM-DADM/2014",
+            "expediente_transferencia_interna": "19376-FM-2014",
+            "monto_transferencia_interna": "745.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 175,
+            "origen": "FACULTAD DE CIENCIAS ECONOMICAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "CAPACITACIÓN DE LA SRA. RUTH ELIZABTEH ESPINOZA TORREJON EN EL CURSO \"LINUX BÁSICO Y ADMINISTRACIÓN\" OF Nº489-FCE-DAD-14.",
+            "expediente_transferencia_interna": "04479-FCE-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 176,
+            "origen": "FACULTAD DE CIENCIAS ECONOMICAS",
+            "destino": "FACULTAD DE CIENCIAS CONTABLES",
+            "desc_transferencia_interna": "ALQUILER DEL LABORATORIO DE COMPUTO OF Nº475-FCE-DAD-14.",
+            "expediente_transferencia_interna": "04367-FCE-2014",
+            "monto_transferencia_interna": "1080.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 177,
+            "origen": "FACULTAD DE CIENCIAS ECONOMICAS",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "SERV. DE CALIDAD DE ENERGÍA ELÉCTRICA DE LA BIBLIOTECA Y HEMEROTECA.OF Nº464-FCE-DAD-2014",
+            "expediente_transferencia_interna": "04220-FCE-2014",
+            "monto_transferencia_interna": "2200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 178,
+            "origen": "FACULTAD DE CIENCIAS ECONOMICAS",
+            "destino": "CENTRO CULTURAL",
+            "desc_transferencia_interna": "ALQUILER DEL AUDITORIO DEL ENTRO CULTURAL PARA LA TRANSMISIÓN DEL VIDEO; CONFERENCIA DEL EVENTO \"JOVENES DIALOGANDO CON DOS PREMIOS NOBEL DE ECONOMÍA\" EL 05-10-14. OF Nº508-FCE-DAD-14",
+            "expediente_transferencia_interna": "04724-FCE-2014",
+            "monto_transferencia_interna": "450.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 179,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE ALQUILER DE COMPUTADORAS PARA LOS PARTICIPANTES DEL XXVII PROGRAMA DE ACTUALIZACIÓN Y EXAMEN DE APITUD PROFESIONAL.OF Nº650/DADM-FQIQ/14",
+            "expediente_transferencia_interna": "00857-FQIQ-2014",
+            "monto_transferencia_interna": "5200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 180,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº651/DADM-FQIQ/14;              OFICIO Nº0420-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7818  ",
+            "expediente_transferencia_interna": "00856-FQIQ-2014",
+            "monto_transferencia_interna": "4407.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 181,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE ALQUILER DE EQUIPOS DE COMPUTO, OF Nº0675/D-FQIQ/2104",
+            "expediente_transferencia_interna": "00503-FQIQ-2104",
+            "monto_transferencia_interna": "5200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 182,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE TARJETAS, FOLDER Y OTROS, OF Nº0631/D-FQIQ/2014.PRESUP. Nº 11050, 11698, 11879, 12290, 12322, 12354, 12355,12853.",
+            "expediente_transferencia_interna": "00786-FQIQ-2014",
+            "monto_transferencia_interna": "3728.30"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 183,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "CENTRO CULTURAL",
+            "desc_transferencia_interna": "SERV. ALQUILER DE AMBIENTES DEL CENTRO CULTURAL DEL 23 AL 28-09-2014.OF Nº 0751/D-FQIQ/2014",
+            "expediente_transferencia_interna": "00969-FQIQ-2014",
+            "monto_transferencia_interna": "15104.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 184,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0853/D-FQIQ/2014;              OFICIO Nº0514-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7927  ",
+            "expediente_transferencia_interna": "00845-FQIQ-2014",
+            "monto_transferencia_interna": "160.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 185,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "desc_transferencia_interna": "CAPACITACIÓN DEL SR. EDDY JESUS CASTILLO CORTIJO EN LE CURSO \"GESTIÓN DE INDICADORES DE CALIDAD EN LA ADMINISTRACIÓN DE BIBLIOTECAS\"OF 0816/D-FQIQ/2014",
+            "expediente_transferencia_interna": "01090-FQIQ-2014",
+            "monto_transferencia_interna": "100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 186,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "SERV. DEL CURSO DE CAPACITACIÓN \"ACTUALIZACIÓN INFORMÁTICA PARA FUNCIONARIOS Y DIRECTIVOS APLICADA A LA GESTIÓN\" OF Nº806/DADM-FQIQ/14",
+            "expediente_transferencia_interna": "01122-FQIQ-2014",
+            "monto_transferencia_interna": "2960.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 187,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0934/D-FQIQ/2014;              OFICIO Nº0573-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº8054  ",
+            "expediente_transferencia_interna": "01178-FQIQ-2014",
+            "monto_transferencia_interna": "425.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 188,
+            "origen": "FACULTAD DE CIENCIAS CONTABLES",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. ELABORACIÓN DE CD`S SERIGRAFIADO, AGENDA SAN MARQUINA, TRÍPTICA Y TRAJETA DE IMPRESIÓN. OF Nº0243/FCC-DADM/2014, PRESUP. 12498, 13321B, 13618, 13565.",
+            "expediente_transferencia_interna": "03293-FCC-2014",
+            "monto_transferencia_interna": "20092.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 189,
+            "origen": "FACULTAD DE CIENCIAS CONTABLES",
+            "destino": "OFICINA GENERAL DE RECURSOS HUMANOS",
+            "desc_transferencia_interna": "CURSO DE CAPACITACIÓN \"ASISTENTES DE GERENCIA FRENTE A LAS NUEVAS TENDENCIAS ADMINIST. EN LA GESTIÓN PUBLICA\" OF Nº0345/FCC-DADM/2014",
+            "expediente_transferencia_interna": "04421-FCC-2014",
+            "monto_transferencia_interna": "200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 190,
+            "origen": "FACULTAD DE CIENCIAS CONTABLES",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0362/FCC-DADM/2014;             OFICIO Nº0750, 1154, 1156, 1157, 1227, 1291, 1336-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7934  ",
+            "expediente_transferencia_interna": "04589-FCC-2014",
+            "monto_transferencia_interna": "2508.70"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 191,
+            "origen": "FACULTAD DE CIENCIAS CONTABLES",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "CANCELACIÓN DEL SALDO PENDIENTE SOBRE EL PRESUPUESTO  Nº13767- IMPRESIÓN DE 500 EJEMPLARES DE LA REVISTA QUIPUCAMAYOC. OF Nº0370/FCC-DADM/2014.",
+            "expediente_transferencia_interna": "04647-FCC-2014",
+            "monto_transferencia_interna": "6592.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 192,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "SERV. DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE MICROSCOPIO.OF. Nº1010-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "01611-FIEE-2014",
+            "monto_transferencia_interna": "10843.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 193,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "MEDALLAS HONORÍFICAS, ESTUCHES, GRABACIÓN, ARREGLOS FLORALES, PARA LAS CEREMONIAS DE DISTINCIONESCOMO PROFSOR HONORARIO Y DOCTOR HONORIS OF Nº1216-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "01239-FCB-2104",
+            "monto_transferencia_interna": "2280.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 194,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "CENTRO CULTURAL",
+            "desc_transferencia_interna": "SERV. DE ALQUILER DE LA CAPILLA VIRGEN DE LORETO PARA LAS CEREMONIAS DE DISTINCIONES COMO PROFESOR HONORARIO Y DOCTOR HONORIS.OF Nº1218-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "01237-FCB-2014",
+            "monto_transferencia_interna": "600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 195,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE TARJETAS PARA LAS CEREMONIAS DE DISTINCIONES COMO PROFESOR HONORARIO Y DORTOR HONORIS. OF Nº1217-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "01238-FCB-2014",
+            "monto_transferencia_interna": "360.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 196,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº1186-D-FCB-UNMSM-2014;              OFICIO Nº0485-14-CEUPS-PANADERIA-FII. GUIA REM. 026 Nº7897, 7901, 7904, 7908.  ",
+            "expediente_transferencia_interna": "00986-FCB-2014",
+            "monto_transferencia_interna": "800.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 197,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE 500 EJEMPLARES DEL CATÁLOGO DE INVESTIGACIÓN ICBAR, OF Nº954-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "00957-FCB-2014",
+            "monto_transferencia_interna": "4104.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 198,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DEL AUDITORIO ROSA ALARCO DEL 12 AL 14-08-14, SISTEMA DE SONIDO, LUCES, PODIO, MESA DE HONOR Y MICROFONOS. OF Nº951-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "00939-FCB-2014",
+            "monto_transferencia_interna": "1632.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-12",
+            "id_transferencia_interna": 199,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE 500 EJEMPLARES DE LA REVISTA PERUANA DE BIOLOGÍA OF Nº1322-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "01364-FCB-2014",
+            "monto_transferencia_interna": "3091.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-19",
+            "id_transferencia_interna": 200,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "LEGALIZACIÓN DE 01 LIBRO DE REGISTRO DE CLASES TEÓRICAS Y PRÁCTICAS PARA LA EAP DE CIENCIA DE LOS ALIMENTOS, OF Nº01401/FFB-D/2014.",
+            "expediente_transferencia_interna": "04213-FFB-2014",
+            "monto_transferencia_interna": "80.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 201,
+            "origen": "FACULTAD DE CIENCIAS ECONOMICAS",
+            "destino": "FACULTAD DE CIENCIAS SOCIALES",
+            "desc_transferencia_interna": "REGULARIZACION DE TRANSFERENCIA DEL OFICIO Nº437/FCCSS-UE/2014. SE SOLCITA EXTORNO DEL MONTO TRANSFERIDO.OF Nº459/FCCSS-UE/2014",
+            "expediente_transferencia_interna": "05501-FCCSS-2014",
+            "monto_transferencia_interna": "500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 202,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. ELABORACION Y CONFECCION DE AGENDAS INSTITUCIONALES.                     OF Nº381/FPSIC-DADM/2014, PRSUPUESTO Nº 14251.",
+            "expediente_transferencia_interna": "02685-FPSIC-2014",
+            "monto_transferencia_interna": "3720.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 203,
+            "origen": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. ATENCION DE PANETONES EN BOLSA, OF Nº871-FCA-DADM-2014HOJA DE REQ. 2014067637.",
+            "expediente_transferencia_interna": "06935-FCA-2014",
+            "monto_transferencia_interna": "825.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 204,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. ATENCION DE REFRIGERIOS OF Nº453/FCCSS-UE/2014. GUIA REM 026 Nº8232",
+            "expediente_transferencia_interna": "05494-FCCSS-2014",
+            "monto_transferencia_interna": "324.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 205,
+            "origen": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "REPARACION DE CONSOLA DE AUDIO, EQUIPO DE CONTROL DE LUMINARIAS Y EQUIPO DE CONTROL DIMER PACK OF Nº853-FCA-DADM-2014",
+            "expediente_transferencia_interna": "OFICIO Nº 853-FCA-DADM-2014",
+            "monto_transferencia_interna": "2000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 206,
+            "origen": "CENTRO CULTURAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "IMPRESION DE REVISTA ARQUEOLIGICA Y SOCIEDAD, OF Nº0202/MAA-CCSM/2014HOJA REQ. 2014065854, PRESUP. Nº 14083",
+            "expediente_transferencia_interna": "14242-DGA-2014",
+            "monto_transferencia_interna": "12561.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 207,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº01886/FFB-D/2014.OFICIO Nº 0622-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8112",
+            "expediente_transferencia_interna": "03861-FII-2014",
+            "monto_transferencia_interna": "140.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 208,
+            "origen": "OFICINA DE ABASTECIMIENTO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº3644-DGA-OA-2014.OFICIO Nº 0592-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8084.",
+            "expediente_transferencia_interna": "11477-DGA-2014",
+            "monto_transferencia_interna": "275.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 209,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "desc_transferencia_interna": "SERV. DE ALQUILER DE AMBIENTE CORRESPONDIENTE AL MES DE DICIEMBRE.OF Nº620-UE-DADM/FD-2014.",
+            "expediente_transferencia_interna": "09595-FD-2014",
+            "monto_transferencia_interna": "800.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 210,
+            "origen": "FACULTAD DE CIENCIAS FÍSICAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. ELABORACION DE AGENDAS OF Nº 1435-D-FCF-2014, PRESUPUESTO Nº 14280",
+            "expediente_transferencia_interna": "02066-FCF-2014",
+            "monto_transferencia_interna": "1500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 211,
+            "origen": "OFICINA GENERAL DE RELACIONES PÚBLICAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "ADQUISICION DE 48 PANETONES EN CAJA OF Nº1022-2014-R-OGII. HOJA REQ 2014068188",
+            "expediente_transferencia_interna": "02522-OGPL-2014",
+            "monto_transferencia_interna": "888.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 212,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "PAGO DE DEUDA SEGUN CRONOGRAMA CORRESPONDIENTE AL MES DE DICEIMBRE, OF Nº1784-OE-FMV-2014",
+            "expediente_transferencia_interna": "10394-FMV-2014",
+            "monto_transferencia_interna": "7094.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 213,
+            "origen": "OFICINA GENERAL DE BIENESTAR UNIVERSITARIO",
+            "destino": "CLÍNICA UNIVERSITARIA",
+            "desc_transferencia_interna": "CANCELACION POR LOS SERVICIOS DE DESPISTAJE A LOS DEPORTISTAS PARTICIPANTES EN \"UNIVERSIADAS CUSCO 2014\" OF Nº2114/DGA-OGBU/2014",
+            "expediente_transferencia_interna": "15189-DGA-2014",
+            "monto_transferencia_interna": "12288.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 214,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE CAPACITAACION EN EL CURSO \"APLICACION E INTEGRACIONES DE LAS TIC EN LA EDUCACION SUPERIOR\" OF Nº01900/FFB-D/2014",
+            "expediente_transferencia_interna": "04952-FFB-2014",
+            "monto_transferencia_interna": "9000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 215,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE CIENCIAS SOCIALES",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA EDUCACION NIVER PRIMARIA UGEL 05. OF Nº2885-D-FE-2014",
+            "expediente_transferencia_interna": "27139-FE-2014",
+            "monto_transferencia_interna": "10000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 216,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA UNIDAD DE POST GRADO, OF Nº2887-D-FE-2014",
+            "expediente_transferencia_interna": "22448-FE-2014",
+            "monto_transferencia_interna": "13650.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 217,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA COMUNICACION NIVEL SECUNDARIA UGEL 06. OF Nº2884-D-FE-2014",
+            "expediente_transferencia_interna": "25737-FE-2014",
+            "monto_transferencia_interna": "1680.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 218,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA COMUNICACION NIVEL SECUNDARIA UGEL 05. OF Nº2883-D-FE-2014",
+            "expediente_transferencia_interna": "25740-FE-2014",
+            "monto_transferencia_interna": "560.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 219,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "desc_transferencia_interna": "ALQUILER DE AULAS Y LABORATORIOS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA MATEMATICA  NIVEL SECUNDARIA UGEL 05. OF Nº2880-D-FE-2014",
+            "expediente_transferencia_interna": "24323-FE-2014",
+            "monto_transferencia_interna": "4680.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 220,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE CIENCIAS FÍSICAS",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA COMUNICACION NIVEL SECUNDARIA UGEL 04. OF Nº2882-D-FE-2014",
+            "expediente_transferencia_interna": "25738-FE-2014",
+            "monto_transferencia_interna": "1680.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 221,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA COMUNICACION NIVEL SECUNDARIA UGEL 06. OF Nº2879-D-FE-2014",
+            "expediente_transferencia_interna": "24321-FE-2014",
+            "monto_transferencia_interna": "4680.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 222,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE CIENCIAS CONTABLES",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA EDUCACION NIVEL PRIMARIA UGEL 05. OF Nº2886-D-FE-2014",
+            "expediente_transferencia_interna": "27141-FE-2014",
+            "monto_transferencia_interna": "3000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 223,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "FACULTAD DE CIENCIAS FÍSICAS",
+            "desc_transferencia_interna": "ALQUILER DE AULAS PARA LA SEGUNDA ESPECIALIDAD EN DIDACTICA DE LA COMUNICACION NIVEL SECUNDARIA UGEL 05. OF Nº2881-D-FE-2014",
+            "expediente_transferencia_interna": "25739-FE-2014",
+            "monto_transferencia_interna": "1120.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 224,
+            "origen": "CENTRO CULTURAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "IMPRESION DE REVISTA ARQUEOLOGICA Y SOCIEDAD, OF Nº0203/MAA-CCSM/2014HOJA REQ. Nº 2014065856, PRESUPUESTO Nº 14084",
+            "expediente_transferencia_interna": "14244-DGA-2014",
+            "monto_transferencia_interna": "12005.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 225,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "SERV. MEJORA DE LA CALIDAD DE ENERGIA ELECTRICA, OF Nº 384-FCCSS-DAD-2014",
+            "expediente_transferencia_interna": "03592-FIEE-2014",
+            "monto_transferencia_interna": "25000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 226,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "SERV. DE CONSTRUCCION DE TRES POZOS TIERRA, OF Nº385-FCCSS-DAD-2014",
+            "expediente_transferencia_interna": "03591-FIEE-2014",
+            "monto_transferencia_interna": "7500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 227,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIONES VARIOS MEMORANDUM Nº 452-VRAC-2014.HOJA REQ. Nº 2014069070, PRESUPUESTO Nº 14328.",
+            "expediente_transferencia_interna": "02563-OGPL-2014",
+            "monto_transferencia_interna": "4095.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 228,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESION DE BOLETIN DE INFORMACION, MEMO Nº 450-VRAC-2014.HOJA REQ Nº 2014069019, PRESUPUESTO Nº 14327.",
+            "expediente_transferencia_interna": "02562-OGPL-2014",
+            "monto_transferencia_interna": "5350.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 229,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESION DE GUIA METODOLOGICA MEMO Nº 425-VRAC-2014.HOJA REQ 2014066198, PRESUPUESTO Nº 14228.",
+            "expediente_transferencia_interna": "02432-OGPL-2014",
+            "monto_transferencia_interna": "12760.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-30",
+            "id_transferencia_interna": 230,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. ATENCION DE REFRIGERIOS PRESTADOS OF Nº1043/DIR.ADM.-FIEE/2014.OFICIO Nº0683-14-CEUPS-PANADERIA-FII,  GUIA REM 026 Nº8202",
+            "expediente_transferencia_interna": "03445-FIEE-2014",
+            "monto_transferencia_interna": "145.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 288,
+            "origen": "CENTRO CULTURAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "CANCELACIÓN DE SERVICIOS PRESTADOS EN EL 2011. OF Nº 1054-CEPREDIM-2013\r\nGUIA REM 041 Nº28348, 27616, 26632, 27633, 26845, 26655, ",
+            "expediente_transferencia_interna": "PROVEIDO 250-DGA-OC-2014",
+            "monto_transferencia_interna": "5863.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 289,
+            "origen": "OFICINA DE ABASTECIMIENTO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE ATENCIÓN PARA LA REUNION DE TRABAJO DE LA UNIDADES  DE ABASTE.\r\nOF Nº 2742-DGA-OA-2014, HOJA REQ. 2014056886.",
+            "expediente_transferencia_interna": "11091-DGA-2014",
+            "monto_transferencia_interna": "269.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 290,
+            "origen": "MUSEO DE HISTORIA NATURAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE FOLLETOS MUSEOLOGICOS, OF Nº 386-MHN-2014.\r\nHOJA REQ. 2014051008, PRESUPUESTO Nº 13937.",
+            "expediente_transferencia_interna": "09118-DGA-2014",
+            "monto_transferencia_interna": "6663.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 291,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "CANCELACIÓN DE ORDENES PENDIENTES DE PAGO EN EL 2012, 2013 Y 2014.\r\nOF Nº 595-2014-R-OGII, PRESUPUESTO Nº 11932, 13286-B, 13296, 13382, 13491, 13497, 13549, 13621, 13640, 13656.",
+            "expediente_transferencia_interna": "09599-DGA-2014",
+            "monto_transferencia_interna": "36253.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 292,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE COMPENDIO ESTADISTICO ( OFICINA DE PLANIFICACION) OF Nº2790-OGPL-2014. PRESUPUESTO Nº 13772.\r\n",
+            "expediente_transferencia_interna": "01520-OGPL-2014",
+            "monto_transferencia_interna": "18820.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 293,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "ELABORACIÓN DE AGENDA DIARIA DEL AÑO 2102 (OFICINA PLANNIFICACION).\r\nOF Nº3501-OGPL-2014, PRESUPUESTO Nº10975. GUIA REM. 041 Nº 28948.",
+            "expediente_transferencia_interna": "01970-OGPL-2014",
+            "monto_transferencia_interna": "600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-25",
+            "id_transferencia_interna": 294,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "ESCUELA DE POST GRADO",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN ESCUELA DE POSTGRADO (OFICINA PLANIFICACIÓN)\r\nOF Nº3875-OGPL-2014. HOJA REQ. 2014060150.",
+            "expediente_transferencia_interna": "02137-OGPL-2014",
+            "monto_transferencia_interna": "750.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 331,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN VARIOS. INFORME Nº 9064-OA-UPCP-2014.\r\nHOJA REQ. 2014060057, PRESUPUESTO Nº 14090, 13958.",
+            "expediente_transferencia_interna": " 01805-OGPL-2014",
+            "monto_transferencia_interna": "1410.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 332,
+            "origen": "VICERRECTORADO DE INVESTIGACION",
+            "destino": "INSTITUTO RAÚL PORRAS BARRENECHEA",
+            "desc_transferencia_interna": "SERV. DE CAPACITACIÓN AL CURSO \"PROTOCOLO Y ORGANIZACIÓN DE EVENTOS\"\r\nOF Nº 814/VRI-CSI/2014. HOJA REQ. 2014057022",
+            "expediente_transferencia_interna": "11333-DGA-2014",
+            "monto_transferencia_interna": "200.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 333,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE TARJETAS DE INVITACIÓN INF. Nº8566-OA-UPCP-2014\r\nHOJA REQ. 2014057257",
+            "expediente_transferencia_interna": "01994-OGPL-2014",
+            "monto_transferencia_interna": "226.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 334,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE AFICHES, DIPTICOS Y TARJETAS DE INVITACIÓN.\r\nINFORME Nº 9089-OA-UPCP-2014 - PRESUP. Nº 14168, 14164.",
+            "expediente_transferencia_interna": "02122-OGPL-2014",
+            "monto_transferencia_interna": "1155.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 335,
+            "origen": "CLÍNICA UNIVERSITARIA",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "ALQUILER DE AMBIENTES PARA EL AUTOSEGURO (PABELLÓN ANTIGUO - 1ER PISO)\r\nOF Nº350-DGA-OGE-AAP-CG/2014.",
+            "expediente_transferencia_interna": "11625-DGA-2014",
+            "monto_transferencia_interna": "700.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 336,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "PARTICIPACÓN DEL SR. EDRY MANRIQUE GONZALES EN EL CURSO \"LINUX BÁSICO Y ADMINISTRACIÓN\" OF. Nº861/DADM-FQIQ/14.",
+            "expediente_transferencia_interna": "01274-FQIQ-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 337,
+            "origen": "FACULTAD DE CIENCIAS CONTABLES",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "CANCELACIÓN DEL COSTO DE ADQUISICIÓN DE PANETONES 2013.\r\nOF. Nº 0403/FCC-DADM/2014 - OFICIO Nº 0108-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº 7379, 7429.",
+            "expediente_transferencia_interna": "04957-FCC-2014",
+            "monto_transferencia_interna": "7140.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 338,
+            "origen": "VICERRECTORADO DE INVESTIGACION",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "SERV.  ALQUILER DE AUDITORIO ROSA LARCO LARRABURE, OF Nº967/VRI-CSI/2014.\r\nHOJA DE REQUERIMIENTO 2014061165\r\n",
+            "expediente_transferencia_interna": "12967-DGA-2014",
+            "monto_transferencia_interna": "1870.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 339,
+            "origen": "OFICINA CENTRAL DE ADMISION",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERVICIOS DE IMPRESIÓN BRINDADOS POR EL CEPREDIM.\r\nOFICIO Nº 0332/DG-OCA/14.",
+            "expediente_transferencia_interna": "04199-OCA-2014",
+            "monto_transferencia_interna": "241680.27"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 340,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "OFICINA DE TESORERÍA",
+            "desc_transferencia_interna": "PARTICIPACIÓN EN EL TALLER DE CAPACITACIÓN \"RETENCIÓN, PRECEPCIONES Y DETRACCIONES, ÚLTIMAS MODIFICACIONES Y APLICACIÓN PRÁCTICA\" .\r\nOF Nº188/FIGMMG-DAD-UE/2014.    ",
+            "expediente_transferencia_interna": "08187-FIGMMG-2014",
+            "monto_transferencia_interna": "150.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 341,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "PARTICIPACIÓN DEL PERSONAL AL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSITITUCIONAL 2014\".\r\nOF Nº1426-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "01483-FCB-2014",
+            "monto_transferencia_interna": "150.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 342,
+            "origen": "VICERRECTORADO DE INVESTIGACION",
+            "destino": "OFICINA GENERAL DEL SISTEMA DE BIBLIOTECAS Y BIBLIOTECA CENTRAL",
+            "desc_transferencia_interna": "ALQUILER DEL AUDITORIO ROSA LARCO LARRABURE PARA LA REALIZACIÓN DEL \"III TALLER DE ESTUDIANTES INVEST. SAN MARQUINOS\" OF Nº984/VRI-CSI/2014.",
+            "expediente_transferencia_interna": "13198-DGA-2014",
+            "monto_transferencia_interna": "510.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 343,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "OFICINA DE TESORERÍA",
+            "desc_transferencia_interna": "PARTICIPACIÓN EN EL TALLER DE CAPACITACIÓN \"RETENCIÓN, PRECEPCIONES Y DETRACCIONES, ÚLTIMAS MODIFICACIONES Y APLICACIÓN PRÁCTICA\".\r\nOF Nº 485/FE-UE/2014.",
+            "expediente_transferencia_interna": "28082-FE-2014",
+            "monto_transferencia_interna": "150.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 344,
+            "origen": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "destino": "OFICINA DE TESORERÍA",
+            "desc_transferencia_interna": "PARTICIPACIÓN EN EL TALLER DE CAPACITACIÓN \"RETENCIÓN, PRECEPCIONES Y DETRACCIONES, ÚLTIMAS MODIFICACIONES Y APLICACIÓN PRÁCTICA\" .\r\nOF Nº 01881/FCM-D/2014.",
+            "expediente_transferencia_interna": "OFICIO Nº 01881/FCM-D/2014",
+            "monto_transferencia_interna": "450.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 345,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "INSCRIPCIÓN AL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\" OF Nº 01640/FFB-D/2014.",
+            "expediente_transferencia_interna": "05612-FFB-2014",
+            "monto_transferencia_interna": "100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 346,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN CERTIFICADOS DE SEMINARIO, INFORM Nº 9442-OA-UPCP-2014\r\nHOJA DE REQUERIMIENTO 2014060224.",
+            "expediente_transferencia_interna": "13427-SG-2014",
+            "monto_transferencia_interna": "500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 347,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "desc_transferencia_interna": "ATENCIÓN DE MATERIALES VIDRIO, REACTIVOS Y USO DE UN LABORATORIO.\r\nOF Nº1473-UE-FII-2014",
+            "expediente_transferencia_interna": "03973-FII-2014",
+            "monto_transferencia_interna": "1610.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 348,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº942/DIR. ADM.-FIEE/2014.\r\nOFICIO Nº618-14-CEUPS-PANADERIA-FII.",
+            "expediente_transferencia_interna": "03226-FIEE-2014",
+            "monto_transferencia_interna": "54.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 349,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº972/DIR.ADM.-FIEE/2014.\r\nOFICIO Nº0643-14-CEUPS-PANADERIA-FII. GUIA REMISIÓN 026 Nº 8148.",
+            "expediente_transferencia_interna": "03332-FIEE-2014",
+            "monto_transferencia_interna": "88.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 350,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº971/DIR.ADM.-FIEE/2014.\r\nOFICIO Nº0623-14-CEUPS-PANADERIA-FII. GUIA REMISIÓN 026 Nº 8116.",
+            "expediente_transferencia_interna": "03247-FIEE-2014",
+            "monto_transferencia_interna": "58.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 351,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº973/DIR.ADM.-FIEE/2014.\r\nOFICIO Nº0642-14-CEUPS-PANADERIA-FII. GUIA REMISIÓN 026 Nº 8147.",
+            "expediente_transferencia_interna": "03333-FIEE-2014",
+            "monto_transferencia_interna": "124.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-27",
+            "id_transferencia_interna": 352,
+            "origen": "FACULTAD DE LETRAS Y CIENCIAS HUMANAS",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "PRATICIPACIÓN DE 7 TRABAJADORES EN EL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\"\r\nOF Nº721/FLCH-DA/2014.",
+            "expediente_transferencia_interna": "09798-FLCH-2014",
+            "monto_transferencia_interna": "350.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 415,
+            "origen": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "CURSO DE \"ACTUALIZACION INFORMATICA PARA ADMINISTRATIVOS APLICADA A LA GESTION - TICS II\" OF Nº 854-FCA-DADM-2014.",
+            "expediente_transferencia_interna": "06869-FCA-2014",
+            "monto_transferencia_interna": "185.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 416,
+            "origen": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "CURSO DE \"ACTUALIZACION SOLUCIONES DE NEGOCIOS CON EXCEL AVANZADO\" OF Nº 855-FCA-DADM-2014.",
+            "expediente_transferencia_interna": "06870-FCA-2014",
+            "monto_transferencia_interna": "180.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 417,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº01060/D-FIQIQ/2014.\r\nOFICIO Nº 0660-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8154, 8160, 8167, 8171, 8176, 8183, 8188, 8193, 8194.",
+            "expediente_transferencia_interna": "01280-FQIQ-2014",
+            "monto_transferencia_interna": "1488.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 418,
+            "origen": "FACULTAD DE PSICOLOGÍA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS PARA EVENTO ACADEMICO FAC. PSICOLOGIA\r\nOF Nº373/FPSIC-DADM/2014.\r\n",
+            "expediente_transferencia_interna": "03030-FPSIC-2014",
+            "monto_transferencia_interna": "150.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 419,
+            "origen": "FACULTAD DE CIENCIAS CONTABLES",
+            "destino": "CENTRO CULTURAL",
+            "desc_transferencia_interna": "CANCELACION DE LA RESERVA PARA LOS DIAS 04 Y 05-12-14 DEL SALON DE GRADOS DEL CENTRO CULTURAL, OF. Nº0431/FCC-DADM/2014",
+            "expediente_transferencia_interna": "05339-FCC-2014",
+            "monto_transferencia_interna": "1800.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 420,
+            "origen": "ADMINISTRACION CENTRAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCION E IMPRESION DE FOLDER PLASTIFICADO CON BOLSILLO.\r\nHOJA REQ. 2014066019, PRESUPUESTO Nª14267.",
+            "expediente_transferencia_interna": "02403-OGLP-2014",
+            "monto_transferencia_interna": "1100.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 421,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE EMPASTADO, ELABORACION E IMPRESION DE LIBROS DE REGISTRO DE GRADOS TITULOS, OF Nº03479-SG-2014 PRESUPUESTO Nº 14258.",
+            "expediente_transferencia_interna": "14845-SG-2014",
+            "monto_transferencia_interna": "1160.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 422,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "PAGO DE LA DEUDA SEGUN CRONOGRAMA DEL MES DE NOVIEMBRE 2014.\r\nOF Nº1703-OE-FMV-14",
+            "expediente_transferencia_interna": "10038-FMV-2014",
+            "monto_transferencia_interna": "7094.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 423,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIONES Y EMPASTADOS DE LIBROS DE REGISTRO.\r\nOF Nº1704-OE-FMV-2014, PRESUP. Nº14200, 14201, 14202, 14203, 14204,14233.",
+            "expediente_transferencia_interna": "10039-FMV-2014",
+            "monto_transferencia_interna": "2653.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 424,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0695-DADM/UE-FISI-2014\r\nOFICIO Nº 0670-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8201",
+            "expediente_transferencia_interna": "06403-FISI-2014",
+            "monto_transferencia_interna": "173.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 425,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "CESEPI",
+            "desc_transferencia_interna": "PLAN DE TRABAJO \"ESTUDIO DE MERCADO ACERCA DE LA DEMANDA SOCIAL Y MERCADO OCUPACIONAL PARA LOS PROFESIONALES DE LA FACULTAD DE CC BILOGICAS\" OF Nº 1614-D-FCB-UNMSM-2014",
+            "expediente_transferencia_interna": "01027-FCB-2014",
+            "monto_transferencia_interna": "2500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 426,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº1000/DIR.ADM.-FIEE/2014.\r\nOFICIO Nº 0671-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8197 - 8169",
+            "expediente_transferencia_interna": "03413-FIEE-2014",
+            "monto_transferencia_interna": "603.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 427,
+            "origen": "ADMINISTRACION CENTRAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESION DE TARJETAS NAVIDEÑAS Y AGENDA INSTITUCIONAL 2014.\r\nHOJA REQ. 2014066077, PRESUP. Nº 14274, 14247.",
+            "expediente_transferencia_interna": "14159-DGA-2014",
+            "monto_transferencia_interna": "6500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 428,
+            "origen": "COMISIONES PERMANENTES Y TRANSITORIAS",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESION DE TARJETAS NAVIDEÑAS OF Nº392/R-OPCT-UNMSM/2014\r\nPRESUPUESTO Nº 14275.",
+            "expediente_transferencia_interna": "02411-OGPL-2014",
+            "monto_transferencia_interna": "600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 429,
+            "origen": "ADMINISTRACION CENTRAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. IMPRESION DE TARJETAS DE INVITACION HOJA REQ. 2014065497.\r\nINFORME Nº 10569-OA-UPCP-2014.",
+            "expediente_transferencia_interna": "02420-OGPL-2014",
+            "monto_transferencia_interna": "226.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 430,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE PAPEL MEMBRETADO OF Nº 03278-SG-2014.\r\nHOJA REQ. 2014061336, PRESUP Nº 14225 - 14225-B",
+            "expediente_transferencia_interna": "14117-SG-2014",
+            "monto_transferencia_interna": "3827.16"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 431,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE ACOMPAÑAMIENTO EN LOS PROCESOS DE AUTOEVALUACION PARA LA ACRIDITACION DE LAS ESCUELAS DE ING. GEOLOGICA, PRIMERA ARMADA 30% DEL MONTO TOTAL. OF Nº207/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "08786-FIGMMG-2014",
+            "monto_transferencia_interna": "36000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 432,
+            "origen": "FACULTAD DE CIENCIAS FÍSICAS",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "SERV. DE 13 DIPLOMAS QUE FUERON ANULADAS, OF Nº1390-D-FCF-2014",
+            "expediente_transferencia_interna": "02009-FCF-2014",
+            "monto_transferencia_interna": "325.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 433,
+            "origen": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "destino": "CENTRO DE INFORMÁTICA UNMSM",
+            "desc_transferencia_interna": "CURSO DE CAPACITACION PARA EL CURSO DE LINUX, OF Nº874-FCA-DADM-2014\r\n",
+            "expediente_transferencia_interna": "06970-FCA-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-29",
+            "id_transferencia_interna": 434,
+            "origen": "FACULTAD DE MEDICINA VETERINARIA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "POR LA ADQUISICON DE 240 PANETONES EN CAJA, OF Nº1745-OE-FMV-13",
+            "expediente_transferencia_interna": "10176-FMV-2014",
+            "monto_transferencia_interna": "4440.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 461,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "PRATICIPACIÓN EN EL CURSO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\" OF Nº1493-UE-FII-2014.",
+            "expediente_transferencia_interna": "03972-FII-2014",
+            "monto_transferencia_interna": "50.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 462,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº0662-DADM/UE-FISI-214.\r\nOFICIO Nº0580-14-CEUPS-PANADERIA-FII. GUIA REMISIÓN 026 Nº 8079.",
+            "expediente_transferencia_interna": "05738-FISI-2014",
+            "monto_transferencia_interna": "318.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 463,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "LEGALIZACIÓN DE 01 LIBRO MOVIMIENTO DE CAJA DEL INSTITUTO DE MEDICINA TROPICAL OF Nº1158/FM-DADM/2014.",
+            "expediente_transferencia_interna": "21259-FM-2014",
+            "monto_transferencia_interna": "80.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 464,
+            "origen": "FACULTAD DE EDUCACION",
+            "destino": "ESCUELA DE POST GRADO",
+            "desc_transferencia_interna": "TRASLADO POR EXCESO DE PAGO EN LA INSCRIPCIÓN DE 37 POSTULANTES AL PROCESO DE ADMISIÓN 2014-I, OF Nº2638/FE-UPG/2014.",
+            "expediente_transferencia_interna": "24087-FE-2104",
+            "monto_transferencia_interna": "488.56"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 465,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "FACULTAD DE CIENCIAS ADMINISTRATIVAS",
+            "desc_transferencia_interna": "CAPACITACIÓN DEL SR CARLOS REDUCIENDO SOTO EN \"DIPLOMA DE ESPECIALIZACIÓN EN GESTIÓN PÚBLICA\" OF Nº4101-OGPL-2104",
+            "expediente_transferencia_interna": "02276-OGPL-2014",
+            "monto_transferencia_interna": "600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 466,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN DE PAPEL MEMBRETADO IMFORME Nº 10152-OA-UPCP-2014\r\nHOJA DE REQ. 2014064332 - PRESUPUESTO Nº 14219.",
+            "expediente_transferencia_interna": "02340-OGPL-2014",
+            "monto_transferencia_interna": "600.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 467,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE CONFECCIÓN E IMPRESIÓN DE FOLDER PLASTIFICADO CON BOLSILLO INFORME Nº10153-OA-UPCP-2104 -  PRESUP. Nº14195 , HOJA REQ. 2014064331.",
+            "expediente_transferencia_interna": "02341-OGPL-2014",
+            "monto_transferencia_interna": "900.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 468,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "desc_transferencia_interna": "USO DE 6 AULAS Y 1 OFICINA ADMINISTRATIVA PARA EL CICLO ORDINARIO 2014-II OF Nº 1085-DE-CEPREUNMSM-2014.\r\n",
+            "expediente_transferencia_interna": "02764-FCM-2014",
+            "monto_transferencia_interna": "34318.18"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 469,
+            "origen": "FACULTAD DE CIENCIAS MATEMÁTICAS",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ATENCIÓN DE 22 TROFEOS DE VIDRIO PARA RECONOCIMIENTO DE DOCENTES, TRABAJADORES Y ALUMNOS OF Nº1971/FCM-D/2014.",
+            "expediente_transferencia_interna": "03469-FCM-2014",
+            "monto_transferencia_interna": "1734.60"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 470,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "ATENCIÓN DE MEDALLA, ESTUCHES, ARREGLO FLORAL, GRABACIÓN DE MEDALLA\r\nEN LA CEREMONIA DEL DR. LUIGUI FERRAJOLI Y DR. JUAN RUIZ MANERO\r\nOF Nº599-UE-DADM/FD-2014.",
+            "expediente_transferencia_interna": "09252-FD-2014",
+            "monto_transferencia_interna": "2340.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 471,
+            "origen": "FACULTAD DE DERECHO",
+            "destino": "CENTRO DE PRODUCCIÓN LIBRERÍA Y DISTRIBUCIÓN",
+            "desc_transferencia_interna": "SERV. Y ATENCIÓN DE BUFFETS (BOCADITOS, BEBIDAS Y MOZOS) \r\nEN LA CEREMONIA DEL DR. LUIGUI FERRAJOLI Y DR. JUAN RUIZ MANERO\r\nOF Nº599-UE-DADM/FD-2014\r\n",
+            "expediente_transferencia_interna": "09252-FD-2104",
+            "monto_transferencia_interna": "360.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 472,
+            "origen": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE RERIGERIOS PRESTADOS, OF Nº943/DIR.ADM.-FIEE/2014.\r\nOFICIO Nº 0624-14-CEUPS-PANADERIA-FII - GUIA REM. 026 Nº 8117.",
+            "expediente_transferencia_interna": "03248-FIEE-2014",
+            "monto_transferencia_interna": "286.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 473,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "ADMINISTRACION CENTRAL",
+            "desc_transferencia_interna": "USO DEL TEATRO ELLA DUMBAR TEMPLE Y EL ALQUILER DE LOS EQUIPOS ADICIONALES, OF Nº192/FIGMMG-DAD-UE/2014.",
+            "expediente_transferencia_interna": "08310-FIGMMG-2014",
+            "monto_transferencia_interna": "700.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 474,
+            "origen": "FACULTAD DE CIENCIAS BIOLOGICAS",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "SERVICIO DE ANÁLISIS DE LA CALIDAD DE ENERGÍA ELÉCTRICA DE CC. BIOLOGICAS\r\nOF Nº1515-D-FCB-UNMSM-2014.",
+            "expediente_transferencia_interna": "03184-FIEE-2014",
+            "monto_transferencia_interna": "4000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 475,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF Nº 0678-DADM/UE-FISI-2014.\r\nOFICIO Nº0649-CEUPS-PANADERIA-FII-14 - GUIA REM. 026 Nº 8156, 8159, 8165, 8172, 8177, 8182, 8189, 8192.",
+            "expediente_transferencia_interna": "06132-FISI-2014",
+            "monto_transferencia_interna": "498.30"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 476,
+            "origen": "FACULTAD DE CIENCIAS SOCIALES",
+            "destino": "FACULTAD DE CIENCIAS CONTABLES",
+            "desc_transferencia_interna": "CAPACITACIÓN EN LOS CURSOS \"EXCEL EMPRESARIAL Y SISTEMAS INTEGRADO DE ADMINISTRACIÓN FINANCIERA\" OF Nº446/FCCSS-UE/2014.",
+            "expediente_transferencia_interna": "04686-FCC-2014",
+            "monto_transferencia_interna": "1650.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 477,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "LEGALIZACIÓN DE 1 LIBRO DE ACTAS PARA EL COMITÉ DE GESTIÓN DE LA CALIDAD.\r\nOF. Nº01718/FFB-D/2014.",
+            "expediente_transferencia_interna": "05766-FFB-2014",
+            "monto_transferencia_interna": "80.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 478,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "OFICINA DE SECRETARÍA GENERAL",
+            "desc_transferencia_interna": "ASISTENCIA DE 1 PARTICIPANTE AL SEMINARIO VIRTUAL \"LAS RESOLUCIONES UNIVERSITARIAS EN LA GESTIÓN INSTITUCIONAL 2014\". OF Nº1145/FM-DADM/2014\r\n",
+            "expediente_transferencia_interna": "21311-FM-2014",
+            "monto_transferencia_interna": "50.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-11-28",
+            "id_transferencia_interna": 479,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "DIRECCION GENERAL DE ADMINISTRACION",
+            "desc_transferencia_interna": "SERV. DE \"ELABORACIÓN REPRODUCCIÓN Y DISTRIBUCIÓN DEL EXAMEN ÚNICO NACIONAL DEL RESIDENTADO MEDICO 2014\" OF Nº3083-DGA-OA-2014.",
+            "expediente_transferencia_interna": "PROVEIDO Nº 279-DGA-OC-2014",
+            "monto_transferencia_interna": "80720.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 480,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº 1107-DE -CEPREUNMSM-2014.\r\nOFICIO 0625-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº 8120.",
+            "expediente_transferencia_interna": "14313-DGA-2014",
+            "monto_transferencia_interna": "1070.20"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 481,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº01782/FFB-D/2104.\r\nOFICIO Nº 0563-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8029",
+            "expediente_transferencia_interna": "04024-FFB-2014",
+            "monto_transferencia_interna": "400.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 482,
+            "origen": "AUTOSEGURO CONTRA ACCIDENTES",
+            "destino": "FACULTAD DE INGENIERÍA ELECTRÓNICA",
+            "desc_transferencia_interna": "ALQ. DE AMBIENTES PARA EL AUTOSEGURO (PABELLÓN ANTIGUO - 1ER PISO)\r\nOF Nº 432-DGA-OGE-AAP-CG/2014.",
+            "expediente_transferencia_interna": "14353-DGA-2014",
+            "monto_transferencia_interna": "700.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 483,
+            "origen": "CENTRO PRE UNIVERSITARIO",
+            "destino": "FACULTAD DE DERECHO",
+            "desc_transferencia_interna": "USO DE 06 AULAS Y 1 OFICINA ADMINISTRATIVA DEL 21-10 -14 A FEBRERO DEL 2015\r\nPARA EL DICTADO DE CLASES DEL CICLO ORDINARIO.\r\nOF. Nº 1106-DE-CEPREUNMSM-2014",
+            "expediente_transferencia_interna": "14314-DGA-2014",
+            "monto_transferencia_interna": "31500.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 484,
+            "origen": "RED TELEMATICA",
+            "destino": "OFICINA GENERAL DE RELACIONES PÚBLICAS",
+            "desc_transferencia_interna": "LA OFICINA DEL SISTEMA UNICO DE MATRICUALA REALIZARA UN EVENTO EL 27 Y 28 DE NOVIEMBRE, OF. Nº 01574-SUM-2014",
+            "expediente_transferencia_interna": " OF. Nº 01574-SUM-2014",
+            "monto_transferencia_interna": "5000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 485,
+            "origen": "OFICINA GENERAL DE COOPERACIÓN Y RELACIONES INTER INSTITUCIONALES",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESION DE BOLETIN DE INFORMACION OF Nº 1879-OGCRI-2014\r\nHOJA REQ. 214063526, PRESUPUESTO Nº 14144-B.",
+            "expediente_transferencia_interna": "02312-OGPL-2014",
+            "monto_transferencia_interna": "3026.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 486,
+            "origen": "FACULTAD DE FARMACIA Y BIOQUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº01781/FFB-D/2104.\r\nOFICIO Nº 0375-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº7763\r\n",
+            "expediente_transferencia_interna": "02912-FFB-2014",
+            "monto_transferencia_interna": "597.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 487,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "desc_transferencia_interna": "PAGO POR LOS APLICATIVOS INSTALADOS: SISTEMA DE CUENTA CORIENTE Y SISTEMA DE LEGAJOS OF Nº195/FIGMMG-DAD-UE/2014",
+            "expediente_transferencia_interna": "06746-FISI-2104",
+            "monto_transferencia_interna": "6000.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 488,
+            "origen": "FACULTAD DE INGENIERÍA DE SISTEMAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº 0692-DAD/UE-FISI-2014.\r\nOFICIO Nº 0658-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº7896",
+            "expediente_transferencia_interna": "04759-FISI-2014",
+            "monto_transferencia_interna": "96.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 489,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "IMPRESIÓN DE TARJETAS DE INVITACION MEMORANDUM Nº418-VRAC-2014.\r\nHOJA REQ. 2014065021, PRESUPUESTO Nº 14257.",
+            "expediente_transferencia_interna": "02371-OGPL-2014",
+            "monto_transferencia_interna": "900.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-05",
+            "id_transferencia_interna": 490,
+            "origen": "FACULTAD DE QUIMICA E ING. QUIMICA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS, OF. Nº1059/D-FQIQ/2014\r\nOFICIO Nº 0644-14-CEUPS-PANADERIA-FII. GUIA REM 026 Nº 8137, 8144.",
+            "expediente_transferencia_interna": "03564-FII-2014",
+            "monto_transferencia_interna": "462.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 501,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº197/FIGMMG-DAD-UE/2014.\r\nOFICIO Nº 716, 718, 719, 720, 754, 755, 756, 778, 779, 780, 781, 783, 784, 800, 378, 843, 844, 845, 846, 847, 848 Y 891-OE-FII-2014.",
+            "expediente_transferencia_interna": "08510-FIGMMG-2014",
+            "monto_transferencia_interna": "22820.80"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 502,
+            "origen": "FACULTAD DE GEOLOGIA, MINAS, METALURGIA Y CIENCIAS GEOGRAFICAS",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº196/FIGMMG-DAD-UE/2014.\r\nOFICIO Nº 245, 246, 247, 248, 326, 327, 328, 377, 434, 435, 436, 437, 438, 439, 440, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 633, Y 634-OE-FII-2014.",
+            "expediente_transferencia_interna": " 08509-FIGMMG-2014",
+            "monto_transferencia_interna": "15553.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 503,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº1208/FM-DADM/2014.\r\nOFICIO Nº 0593-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº8095.",
+            "expediente_transferencia_interna": "18097-FM-2014",
+            "monto_transferencia_interna": "94.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 504,
+            "origen": "FACULTAD DE MEDICINA",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº1207/FM-DADM/2014.\r\nOFICIO Nº 0594-14-CEUPS-PANADERIA-FII, GUIA REM. 026 Nº 8096.",
+            "expediente_transferencia_interna": "17629-FM-2014",
+            "monto_transferencia_interna": "187.50"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 505,
+            "origen": "CENTRO DE INFORMÁTICA UNMSM",
+            "destino": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "desc_transferencia_interna": "SERV. DE REFRIGERIOS PRESTADOS OF Nº0494-CINFO-2014.\r\nINFORME N º10291-OA-UPCP-2014.",
+            "expediente_transferencia_interna": "13859-DGA-2014",
+            "monto_transferencia_interna": "2721.60"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 506,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE ELABORACIÓN DE 50 AGENDAS INSTITUCIONALES ( OF. PLANIFICACION)\r\nPRESUPUESTO Nº 14249, HOJA REQ. Nº 2014065303.",
+            "expediente_transferencia_interna": "02380-OGPL-2014",
+            "monto_transferencia_interna": "1250.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 507,
+            "origen": "FACULTAD DE INGENIERÍA INDUSTRIAL",
+            "destino": "OFICINA GENERAL DE RELACIONES PÚBLICAS",
+            "desc_transferencia_interna": "ALQ. DE AMBIENTES DEL TEATRO AUDITORIO ELLA DUNBAR TEMPLE PARA \"LA CLAUSRUA DEL PORG. DE EMPRENDEDORES\", OF Nº 1543-UE-FII-2014",
+            "expediente_transferencia_interna": "04040-FII-2104",
+            "monto_transferencia_interna": "710.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 508,
+            "origen": "VICERRECTORADO ACADÉMICO",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN SAN MAQRQUINA, MEMO Nº 416-VRAC-2014.\r\nHOJA REQ. Nº 2014064973, PRESUP Nº 14248.",
+            "expediente_transferencia_interna": " 02369-OGPL-2014",
+            "monto_transferencia_interna": "6250.00"
+        },
+        {
+            "fecha_transferencia_interna": "2014-12-04",
+            "id_transferencia_interna": 509,
+            "origen": "OFICINA DE SECRETARÍA GENERAL",
+            "destino": "CENTRO DE PRODUCCIÓN EDITORIAL E IMPRENTA",
+            "desc_transferencia_interna": "SERV. DE IMPRESIÓN (OFICINA COMIS. PERMANENT)  OF Nº 385-R-OCPT-UNMSM/14.\r\nHOJA REQ. Nº 2014064896, PRESUP. Nº 14250.",
+            "expediente_transferencia_interna": "02366-OGPL-2014",
+            "monto_transferencia_interna": "771.00"
+        }
+    ]
+}
